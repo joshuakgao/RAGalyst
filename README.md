@@ -6,6 +6,9 @@ A Retrieval-Augmented Generation (RAG) Evaluation Framework by the Structure and
 
 RAGalyst is a fully automated end-to-end RAG evaluation framework that employs novel LLM-as-a-Judge metrcs: J-Answerability for improved QA synthesis, and J-Correctness for more accurate evaluation of RAG answer generation.
 
+- Paper: https://arxiv.org/abs/2511.04502
+- Data Repository (includes synthesized QA benchmarks, and source documents): https://huggingface.co/datasets/hoskerelab/ragalyst-qac
+
 ## Installation and Usage
 
 1. Clone the repository
