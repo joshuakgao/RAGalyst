@@ -1,0 +1,3 @@
+type: "ragas_qca"
+num_samples: 3 # number of QAC triples to generate
+num_workers: 16

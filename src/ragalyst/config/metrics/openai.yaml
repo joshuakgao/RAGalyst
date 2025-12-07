@@ -1,0 +1,4 @@
+llm_type: openai
+llm_model_name: gpt-4o-mini
+embedder_type: huggingface
+embedder_model_name: "Qwen/Qwen3-Embedding-0.6B"

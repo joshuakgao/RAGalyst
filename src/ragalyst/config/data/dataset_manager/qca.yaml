@@ -1,0 +1,7 @@
+type: "qca"
+num_samples: 3 # number of QAC triples to generate
+max_context_length: 800
+
+# Multithreaded settings
+batch_size: 10 # number of samples to process in parallel, shouldn't be significantly larger than num_samples
+num_workers: 2 # number of worker threads to use, shouldn't be larger than batch_size

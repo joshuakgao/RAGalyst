@@ -1,0 +1,6 @@
+llm_type: huggingface
+llm_model_name: "google/gemma-3-27b-it"
+llm_device: "auto"
+embedder_type: huggingface
+embedder_model_name: "Qwen/Qwen3-Embedding-0.6B"
+embedder_device: "auto"

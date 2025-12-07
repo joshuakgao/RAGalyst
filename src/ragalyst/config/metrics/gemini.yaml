@@ -1,0 +1,4 @@
+llm_type: gemini
+llm_model_name: "gemini-2.5-flash"
+embedder_type: huggingface
+embedder_model_name: "Qwen/Qwen3-Embedding-0.6B"

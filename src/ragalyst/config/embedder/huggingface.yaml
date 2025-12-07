@@ -1,0 +1,3 @@
+type: "huggingface"
+model_name: "Qwen/Qwen3-Embedding-0.6B"
+device: "auto" # 'cuda' or 'cpu' or 'auto'

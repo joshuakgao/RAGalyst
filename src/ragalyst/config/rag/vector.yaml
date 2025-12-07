@@ -1,0 +1,4 @@
+type: "vector"
+top_k: 10
+index_type: "IndexFlatIP"
+order_preserve: false

@@ -1,0 +1,4 @@
+type: "chunk"
+chunk_size: 800
+chunk_overlap: 400
+split_by: "token" # token or character

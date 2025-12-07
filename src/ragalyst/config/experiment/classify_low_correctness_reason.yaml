@@ -1,0 +1,2 @@
+type: "classify_low_correctness_reason"
+evaluated_qa_dataset: "evaluations/llm_with_rag/Qwen3/Qwen3-Embedding-0.6B/gpt-4o-mini_k10.json"

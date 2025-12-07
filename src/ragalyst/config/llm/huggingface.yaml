@@ -1,0 +1,5 @@
+type: "huggingface"
+model_name: "Qwen/Qwen3-0.6B"
+system_message: "You are a helpful assistant that helps answer questions."
+temperature: 0.0
+device: "auto" # 'cuda' or 'cpu' or 'auto'

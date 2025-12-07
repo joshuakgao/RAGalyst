@@ -1,0 +1,4 @@
+llm_type: ollama
+llm_model_name: "gemma3:27b"
+embedder_type: ollama
+embedder_model_name: "embeddinggemma:300m"

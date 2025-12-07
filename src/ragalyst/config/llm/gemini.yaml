@@ -1,0 +1,4 @@
+type: "gemini"
+model_name: "gemini-2.5-flash"
+system_message: "You are a helpful assistant that helps answer questions."
+temperature: 0.0

@@ -1,10 +1,26 @@
-# Python-generated files
-__pycache__/
-*.py[oc]
-build/
-dist/
-wheels/
+__pycache__
 *.egg-info
-
-# Virtual environments
+.env
+.DS_Store
+.vscode
 .venv
+
+
+lightrag.log
+.lightrag_cache
+.deepeval
+.pytest_cache
+.faiss_embeddings_cache
+.text_processor_cache
+.cache/
+.hydra
+.ruff_cache
+
+outputs/
+evaluations/
+src/ragalyst/data/datasets
+
+# ignore slurm output files
+*.o*
+
+test/

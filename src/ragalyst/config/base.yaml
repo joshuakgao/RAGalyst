@@ -1,0 +1,10 @@
+defaults:
+  - llm: huggingface
+  - embedder: huggingface
+  - rag: vector
+  - metrics: huggingface
+  - data/dataset_manager: qca
+  - data/text_processor: chunk
+  - experiment: embedder_retrieval_eval
+
+domain: "army"

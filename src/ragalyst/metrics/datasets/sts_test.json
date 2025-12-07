@@ -1,0 +1,2502 @@
+[
+    {
+        "sentence1": "Australian PM Gillard set to win leadership challenge",
+        "sentence2": "Australian PM defiant under pressure over leadership",
+        "similarity": 0.5
+    },
+    {
+        "sentence1": "santos stated the radioactive material was the primary basis for generating crude weapons of mass destruction and terrorism. ",
+        "sentence2": "uranium is a radioactive material which is the primary basis for generating dirty weapons of mass destruction and terrorism.",
+        "similarity": 0.7
+    },
+    {
+        "sentence1": "police stated tsai wen-huang would be extradited to taiwan. ",
+        "sentence2": "police stated that-- chung has been on the run.",
+        "similarity": 0.4
+    },
+    {
+        "sentence1": "South Africa starts investigating mine violence",
+        "sentence2": "South Africa hosts 'peace talks' in mine standoff",
+        "similarity": 0.5
+    },
+    {
+        "sentence1": "gorgich and pashtoon were executed in prison. ",
+        "sentence2": "gorgich and pashtoon were executed for trafficking heroin in sistan-baluchestan province.",
+        "similarity": 0.6
+    },
+    {
+        "sentence1": "Griffith, a Mount Airy native, now lives on the North Carolina coast in Manteo.",
+        "sentence2": "Griffith, 77, grew up in Mount Airy and now lives in Manteo.",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "A man is playing the guitar.",
+        "sentence2": "A man is playing the drums.",
+        "similarity": 0.3
+    },
+    {
+        "sentence1": "Men tried to behead soldier on London street, court hears",
+        "sentence2": "Australia spied on Indonesia president: reports",
+        "similarity": 0.0
+    },
+    {
+        "sentence1": "The Note's Must Reads for Wednesday July 4, 2012",
+        "sentence2": "The Note's Must-Reads for Wednesday, May 30, 2012",
+        "similarity": 0.4
+    },
+    {
+        "sentence1": "Washington's Acts of Congress sells for $9.8M",
+        "sentence2": "George Washington's copy of US Constitution sells for $9.8m",
+        "similarity": 0.5
+    },
+    {
+        "sentence1": "A woman thinly slices an onion with a large knife.",
+        "sentence2": "A woman is slicing onions with a large knife.",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "Davey graduated Saturday from Northwest College, which is affiliated with the Assemblies of God, with a bachelor of arts degree in religion and philosophy.",
+        "sentence2": "Davey started attending Northwest College, which is affiliated with the Assemblies of God, in 1999 with plans to become a minister.",
+        "similarity": 0.5
+    },
+    {
+        "sentence1": "Tropical Storm Karen targets US Gulf Coast",
+        "sentence2": "Tropical Storm Karen poised to make landfall",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "Updated - Two explosions near finish line of Boston Marathon",
+        "sentence2": "Two explosions at Boston Marathon finish line",
+        "similarity": 1.0
+    },
+    {
+        "sentence1": "Ships Train for Syrian Chemical Weapons Transport",
+        "sentence2": "Syria Loads Chemical Weapons into Bombs, Awaiting Assad Order",
+        "similarity": 0.5
+    },
+    {
+        "sentence1": "A bicyclist in black on a black and red racing bike.",
+        "sentence2": "A cyclist in black and white lira speeding past spectators.",
+        "similarity": 0.7
+    },
+    {
+        "sentence1": "A man is dieing in an operating room.",
+        "sentence2": "A man is kissing a woman in stage.",
+        "similarity": 0.1
+    },
+    {
+        "sentence1": "Originally Posted by muslim girl ooops sorry!",
+        "sentence2": "Originally Posted by muslim girl its not a complete impossibility.",
+        "similarity": 0.2
+    },
+    {
+        "sentence1": "NATO US troop detained over shooting of Afghan civilians",
+        "sentence2": "U.S. says saddened by shooting on Afghan civilians",
+        "similarity": 0.5
+    },
+    {
+        "sentence1": "German parliament overwhelmingly backs Greek rescue deal",
+        "sentence2": "German parliament endorses Greek bailout",
+        "similarity": 0.9
+    },
+    {
+        "sentence1": "July 1st is the sixth anniversary of Hong Kong's return to Chinese rule.",
+        "sentence2": "The rally overshadowed ceremonies marking the sixth anniversary of Hong Kong's return to China on 1 July 1997.",
+        "similarity": 0.5
+    },
+    {
+        "sentence1": "Repsol blasts Argentina over nationalization of YPF",
+        "sentence2": "Repsol blasts Argentina over oil nationalization",
+        "similarity": 0.7
+    },
+    {
+        "sentence1": "A man performs on a stage.",
+        "sentence2": "A man guts a fish.",
+        "similarity": 0.1
+    },
+    {
+        "sentence1": "The man talked on the telephone.",
+        "sentence2": "Girls are walking on the stage.",
+        "similarity": 0.0
+    },
+    {
+        "sentence1": "Tampa Bay manager Lou Piniella, bench coach John McLaren and right fielder Aubrey Huff were ejected for arguing after Huff was called out on strikes to end the ninth.",
+        "sentence2": "Tampa Bay manager Lou Piniella, bench coach John McLaren and Huff all were ejected in the middle of the ninth.",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "A black and white bird on a body of water with grass in the background.",
+        "sentence2": "A bus is on a road with a ferris wheel in the background.",
+        "similarity": 0.0
+    },
+    {
+        "sentence1": "NA President\u201a\u00c4\u00f4s message on the World Press Freedom Day",
+        "sentence2": "Pakistan marks World Press Freedom Day",
+        "similarity": 0.4
+    },
+    {
+        "sentence1": "Leprechauns don't exist - fine.",
+        "sentence2": "Elves don't exist - fine.",
+        "similarity": 0.6
+    },
+    {
+        "sentence1": "Hundreds of reporters and photographers swamped the courthouse grounds before the hearing, which was carried live on national cable networks.",
+        "sentence2": "Hundreds of reporters and photographers swamped the town and the short hearing involving the five-time All-Star was carried live on national cable networks.",
+        "similarity": 0.6
+    },
+    {
+        "sentence1": "The train sits at the train station.",
+        "sentence2": "The blue train is at the station.",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "Pictures show completed Costa Concordia operation",
+        "sentence2": "Timelapse of Costa Concordia operation",
+        "similarity": 0.9
+    },
+    {
+        "sentence1": "Israel planes strike inside Syria",
+        "sentence2": "Israel launches airstrike into Syria",
+        "similarity": 0.9
+    },
+    {
+        "sentence1": "The man sang on stage into the microphone.",
+        "sentence2": "A man in a suit is standing at a microphone and singing.",
+        "similarity": 0.7
+    },
+    {
+        "sentence1": "A bird is flapping its wings in the water.",
+        "sentence2": "A black swan flapping its wings on the water.",
+        "similarity": 0.7
+    },
+    {
+        "sentence1": "A person checks some rice pudding.",
+        "sentence2": "A horse is running.",
+        "similarity": 0.0
+    },
+    {
+        "sentence1": "Two birds are perched on a metal band.",
+        "sentence2": "Two small birds perched on a metal bar.",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "Explosions Near the Iranian Embassy in Beirut",
+        "sentence2": "Two blasts near Iranian embassy in Beirut",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "Soccer Ref Punched by Player Dies",
+        "sentence2": "Police: Utah soccer referee punched by player dies",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "Russia releases Greenpeace doctor",
+        "sentence2": "Russian court releases Greenpeace ship doctor on bail",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "The brown and white dog swims in a swimming pool.",
+        "sentence2": "A brown and white dog swims in a backyard swimming pool.",
+        "similarity": 0.9
+    },
+    {
+        "sentence1": "Four dead in Indonesia train accident",
+        "sentence2": "Five dead as Indonesia train collides with fuel truck",
+        "similarity": 0.7
+    },
+    {
+        "sentence1": "A close-up, distorted photo of an empty glass Coke bottle.",
+        "sentence2": "A close-up picture of a desk with a computer and papers on it.",
+        "similarity": 0.0
+    },
+    {
+        "sentence1": "Chairman of easyJet to step down",
+        "sentence2": "Chairman of British no-frills airline easyJet to step down",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "Two dogs swim in a pool.",
+        "sentence2": "Dogs are swimming in a pool.",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "Kenyan forces caused mall collapse",
+        "sentence2": "Official says Kenyan forces caused mall collapse",
+        "similarity": 1.0
+    },
+    {
+        "sentence1": "A woman peels an apple.",
+        "sentence2": "A man pops wheelies on a motorcycle.",
+        "similarity": 0.0
+    },
+    {
+        "sentence1": "The man is shooting an automatic rifle.",
+        "sentence2": "A man is shooting a gun.",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "Chicago teacher strike nears end with 'framework' agreement in place",
+        "sentence2": "General strike ends: Histadrut, Treasury reach agreement",
+        "similarity": 0.2
+    },
+    {
+        "sentence1": "We do not want to stand by and let a credit card lynching take place, declared Rep. Major Owens (D-Brooklyn).",
+        "sentence2": "We don't want to stand by and see a credit card lynching take place, he said.",
+        "similarity": 0.7
+    },
+    {
+        "sentence1": "He left the army for Syria where he received religious training.",
+        "sentence2": "He moved to Syria, where he underwent further religious training in traditional Islamic beliefs.",
+        "similarity": 0.6
+    },
+    {
+        "sentence1": "Israeli forces arrest 6 Palestinians in overnight West Bank raids",
+        "sentence2": "Israel classifies Jerusalem natives as noncitizens",
+        "similarity": 0.2
+    },
+    {
+        "sentence1": "I'll Have Another retired to stud",
+        "sentence2": "I'll Have Another wins Preakness",
+        "similarity": 0.2
+    },
+    {
+        "sentence1": "A small bird perched on an icy branch.",
+        "sentence2": "A yellow bird perched on a branch.",
+        "similarity": 0.6
+    },
+    {
+        "sentence1": "Shooter charged with murder of US black teen",
+        "sentence2": "Thoughts on race relations under a black president",
+        "similarity": 0.2
+    },
+    {
+        "sentence1": "Apple app directs drivers to Alaska airport runway",
+        "sentence2": "Apple app sends drivers to airport",
+        "similarity": 0.7
+    },
+    {
+        "sentence1": "The Conference Board reported its U.S. Consumer Confidence Index slipped to 83.5 in June from 83.6 in May.",
+        "sentence2": "The consumer-confidence index came in at 83.5 in June, down slightly from a revised 83.6 in May, the Conference Board said.",
+        "similarity": 0.9
+    },
+    {
+        "sentence1": "South Africa president: Mandela is improving",
+        "sentence2": "Afghan president delays signing US deal",
+        "similarity": 0.0
+    },
+    {
+        "sentence1": "Mob kills man for burning Quran",
+        "sentence2": "Pakistani Mob Kills Man 'for Burning Koran'",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "Part of pro-life is the opposition to legalized abortion.",
+        "sentence2": "Pro-life also refers to just \"opposition to abortion\".",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "It is an excellent indicator of climate change.",
+        "sentence2": "I think we all agree on the nature of the change.",
+        "similarity": 0.4
+    },
+    {
+        "sentence1": "A woman is tapping her fingers on a table.",
+        "sentence2": "A woman is tapping her fingers.",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "A cow is eating grass.",
+        "sentence2": "A cow is eating hay.",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "The man is putting chicken into the container.",
+        "sentence2": "A man is putting foods in a box.",
+        "similarity": 0.5
+    },
+    {
+        "sentence1": "A man and woman are walking together through the woods.",
+        "sentence2": "A man and woman are walking arm in arm through a wooded area.",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "We have found the smoking gun, investigating board member Scott Hubbard said.",
+        "sentence2": "We have found the smoking gun, said Hubbard, director of NASA's Ames Research Center in California.",
+        "similarity": 0.7
+    },
+    {
+        "sentence1": "A white bus with the word Julia is near water and a big ship.",
+        "sentence2": "A white bus with water and a barge in the background.",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "A man is pouring chili into a bowl.",
+        "sentence2": "A man opens a can and pours the contents into a bowl.",
+        "similarity": 0.5
+    },
+    {
+        "sentence1": "Iran (Islamic Republic of): Iran steps up relief efforts after quakes kill 227",
+        "sentence2": "Iran steps up relief efforts after quakes kill 227",
+        "similarity": 0.9
+    },
+    {
+        "sentence1": "iran has noticeably increased the number of executions in recent months as officials enforce a campaign aimed at promoting virtue and boosting security in ",
+        "sentence2": "iranian officials have increased executions in 2007 as officials enforce a campaign purportedly aimed at promoting virtue and boosting security in society.",
+        "similarity": 0.7
+    },
+    {
+        "sentence1": "a red and white race car racing on a dirt racetrack.",
+        "sentence2": "A person is riding a dirt bike in a race on a dirt track.",
+        "similarity": 0.3
+    },
+    {
+        "sentence1": "Israel frees second group of Palestinian prisoners",
+        "sentence2": "Israel releases 26 Palestinian prisoners",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "Abdullah Widens Lead in Afghan Presidential Poll",
+        "sentence2": "Explosions heard near Afghan presidential palace",
+        "similarity": 0.2
+    },
+    {
+        "sentence1": "American Airlines and Pilots Agree on a New Contract",
+        "sentence2": "Romney pledges to 'stand with Israel' on Iran threat",
+        "similarity": 0.0
+    },
+    {
+        "sentence1": "Man standing on top of jagged rocks near the ocean.",
+        "sentence2": "A man is standing on top of rocks overlooking the ocean.",
+        "similarity": 0.9
+    },
+    {
+        "sentence1": "What if they messed up a study?",
+        "sentence2": "What if they had a personal bias?",
+        "similarity": 0.2
+    },
+    {
+        "sentence1": "The company is highlighting the addition of .NET and J2EE support to its Enterprise Application Environment (EAE) with the new mainframe.",
+        "sentence2": "The company is also adding .Net and J2EE support to its Enterprise Application Environment development toolset, Sapp said.",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "Cisco pared spending to compensate for sluggish sales.",
+        "sentence2": "In response to sluggish sales, Cisco pared spending.",
+        "similarity": 1.0
+    },
+    {
+        "sentence1": "France Hails Breakthrough after U.S.-Russia Deal on Syria Weapons",
+        "sentence2": "France Welcomes US-Russia Deal on Syria",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "elbaradei is the international atomic energy agency chief. ",
+        "sentence2": "mohammed elbarade is the international atomic energy agency's director general.",
+        "similarity": 1.0
+    },
+    {
+        "sentence1": "Iranian exiles report deaths in Iraq camp",
+        "sentence2": "At least 47 Iranian exiles killed at Iraq's Camp Ashraf",
+        "similarity": 0.6
+    },
+    {
+        "sentence1": "Prosecutors did an about-face in May and asked that the autopsy reports be unsealed after portions of Conner Peterson's autopsy report favorable to the defense were leaked to the media.",
+        "sentence2": "They asked that the autopsy reports be unsealed after portions of the autopsy report on Peterson's unborn son that were favorable to the defense were leaked to the media.",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "2 Indian traders stranded in China sent back home",
+        "sentence2": "46 Indian nurses stranded in Iraq return home",
+        "similarity": 0.4
+    },
+    {
+        "sentence1": "Pakistan imposes temporary ban on 2 TV channels",
+        "sentence2": "Pakistan Dismisses Case against FBI Agent",
+        "similarity": 0.3
+    },
+    {
+        "sentence1": "4 French Soldiers Reported Killed in Afghanistan",
+        "sentence2": "British Soldier Killed In Afghanistan",
+        "similarity": 0.2
+    },
+    {
+        "sentence1": "But she didn't say whether she'll certify the two-year $117.4 billion budget for 2004-05.",
+        "sentence2": "She said she didn't know yet whether she would certify the budget.",
+        "similarity": 0.6
+    },
+    {
+        "sentence1": "Transcript reveals confusion over evacuation of South Korean ferry",
+        "sentence2": "Transcript Reveals Confusion Over Ferry Evacuation",
+        "similarity": 0.7
+    },
+    {
+        "sentence1": "Two cows crossing a road intersection.",
+        "sentence2": "Two cows cross a paved street.",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "A man is playing a guitar.",
+        "sentence2": "Someone is handling a bun.",
+        "similarity": 0.0
+    },
+    {
+        "sentence1": "The black dog is running through the snow.",
+        "sentence2": "A race car driver is driving his car through the mud.",
+        "similarity": 0.0
+    },
+    {
+        "sentence1": "A man is putting broccoli into water.",
+        "sentence2": "A person is peeling a potato.",
+        "similarity": 0.2
+    },
+    {
+        "sentence1": "Faction Names Bianca Ojukwu APGA National Leader",
+        "sentence2": "Bianca Ojukwu becomes APGA national leader",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "Haiti is a shithole.",
+        "sentence2": "Haiti has been a shithole.",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "The leading actress nod went to energetic newcomer Marissa Jaret Winokur as Edna's daughter Tracy.",
+        "sentence2": "Marissa Jaret Winokur, as Tracy, won for best actress in a musical.",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "the cyber attack occurred after the french president sarkozy's meeting with the dalai lama angered the chinese government. ",
+        "sentence2": "the cyber attack occurred after french president nicolas sarkozy's meeting with exiled tibetan spiritual leader the dalai lama.",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "France pledges military aid in Mali",
+        "sentence2": "Most French support military operation in Mali",
+        "similarity": 0.3
+    },
+    {
+        "sentence1": "A woman is chopping garlic.",
+        "sentence2": "A woman slices a fish.",
+        "similarity": 0.2
+    },
+    {
+        "sentence1": "China yuan strengthens to 6.2689 against USD",
+        "sentence2": "China yuan strengthens to new high against USD",
+        "similarity": 0.6
+    },
+    {
+        "sentence1": "a group of teenagers are jumping in the air on the beach.",
+        "sentence2": "A group of young people jump up in the air while on the beach.",
+        "similarity": 1.0
+    },
+    {
+        "sentence1": "A man is cutting an onion.",
+        "sentence2": "A man is cutting a plantain.",
+        "similarity": 0.7
+    },
+    {
+        "sentence1": "Muslim Brotherhood banned in Egypt",
+        "sentence2": "Military holds upper hand in Egypt",
+        "similarity": 0.2
+    },
+    {
+        "sentence1": "A child is walking from one picnic table to another.",
+        "sentence2": "The boy hops from one picnic table to the other in the park.",
+        "similarity": 0.6
+    },
+    {
+        "sentence1": "West hails Syria opposition vote to join peace talks",
+        "sentence2": "Syrian opposition to name delegation for talks",
+        "similarity": 0.5
+    },
+    {
+        "sentence1": "A dog sat at the counter of a store.",
+        "sentence2": "The dog is standing at the counter.",
+        "similarity": 0.5
+    },
+    {
+        "sentence1": "10 dead, five injured in SW China road accident",
+        "sentence2": "5 hurt in Gaza City car accident",
+        "similarity": 0.2
+    },
+    {
+        "sentence1": "Gunman who held suburban Atlanta firefighters hostage now dead, police say",
+        "sentence2": "The Lede: Video: Gunman Takes Firefighters Hostage in Georgia",
+        "similarity": 0.3
+    },
+    {
+        "sentence1": "A buddha statue holding a candle is sitting on a table.",
+        "sentence2": "A man fishing on a small boat while on a lake.",
+        "similarity": 0.0
+    },
+    {
+        "sentence1": "Waksal, in a letter to the court, said: \"I tore my family apart.",
+        "sentence2": "In seeking leniency, Waksal apologized to the court, his employees and his family.",
+        "similarity": 0.4
+    },
+    {
+        "sentence1": "A man sharpens a pencil using a knife.",
+        "sentence2": "A woman is dancing in the rain.",
+        "similarity": 0.0
+    },
+    {
+        "sentence1": "On Saturday, a 149mph serve against Agassi equalled Rusedski's world record.",
+        "sentence2": "On Saturday, Roddick equalled the world record with a 149 m.p.h. serve in beating Andre Agassi.",
+        "similarity": 0.7
+    },
+    {
+        "sentence1": "There is no more egg cell post-fertilization.",
+        "sentence2": "There is no more sperm cell.",
+        "similarity": 0.5
+    },
+    {
+        "sentence1": "A person is driving a car.",
+        "sentence2": "A man is driving a car.",
+        "similarity": 0.7
+    },
+    {
+        "sentence1": "Egypt's Brotherhood stands ground after killings",
+        "sentence2": "Egypt: Muslim Brotherhood Stands Behind Morsi",
+        "similarity": 0.5
+    },
+    {
+        "sentence1": "A Woman is eating.",
+        "sentence2": "A animal is eating.",
+        "similarity": 0.3
+    },
+    {
+        "sentence1": "A living room with a dining table in the background.",
+        "sentence2": "View of a living room with a dining room in the background.",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "Three dogs playing in the snow.",
+        "sentence2": "The boy is playing in the sand.",
+        "similarity": 0.2
+    },
+    {
+        "sentence1": "A large black and white dog is swimming in the water.",
+        "sentence2": "A black and white dog with a stick is in muddy water.",
+        "similarity": 0.7
+    },
+    {
+        "sentence1": "Inflation falls to 15-month low: what the analysts say",
+        "sentence2": "Inflation falls to 15-month low",
+        "similarity": 0.9
+    },
+    {
+        "sentence1": "Could be a lot of things.",
+        "sentence2": "Could be a simple mistake.",
+        "similarity": 0.4
+    },
+    {
+        "sentence1": "A small white dog chews on a twig while lying on a wooden deck.",
+        "sentence2": "The white dog is laying on the wooden floor underneath the table.",
+        "similarity": 0.3
+    },
+    {
+        "sentence1": "russia and nato member countries will hold meetings this fall on the conventional forces in europe treaty (cfe). ",
+        "sentence2": "russian parliament voted unanimously to suspend russia's participation in the conventional forces in europe (cfe) treaty.",
+        "similarity": 0.3
+    },
+    {
+        "sentence1": "Does he have supporters?",
+        "sentence2": "He definently has supporters.",
+        "similarity": 0.4
+    },
+    {
+        "sentence1": "If they were Jews, I would call them Jews.",
+        "sentence2": "If they were Catholics, I would call them Catholics.",
+        "similarity": 0.4
+    },
+    {
+        "sentence1": "A climber is standing on the rock face next to the pink rope.",
+        "sentence2": "The children are running in the snow with fences in the background.",
+        "similarity": 0.0
+    },
+    {
+        "sentence1": "Meat is dropped into a pan.",
+        "sentence2": "A woman is putting meat in a pan.",
+        "similarity": 0.7
+    },
+    {
+        "sentence1": "The women are sitiing down.",
+        "sentence2": "Two women are sitting close to each other and talking.",
+        "similarity": 0.5
+    },
+    {
+        "sentence1": "Suicide bomber kills 13 in Russia's south",
+        "sentence2": "Suicide bomber kills 16 in Russia\u2019s Volgograd",
+        "similarity": 0.4
+    },
+    {
+        "sentence1": "The woman is walking her dog.",
+        "sentence2": "A woman walks her dog down the street.",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "James Gandolfini dies aged 51",
+        "sentence2": "Nelson Mandela dies aged 95",
+        "similarity": 0.1
+    },
+    {
+        "sentence1": "Malawi Officially Confirms President's Death",
+        "sentence2": "Malawi confirms President Mutharika's death",
+        "similarity": 0.7
+    },
+    {
+        "sentence1": "That exploit works on unpatched Windows 2000 machines with Service Pack 3 and 4.",
+        "sentence2": "Both Counterpane and iDefense contend that the exploit works effectively against Windows 2000 systems running Service Pack 3 and 4.",
+        "similarity": 0.6
+    },
+    {
+        "sentence1": "Two killed, 19 injured in Toronto shooting",
+        "sentence2": "Two dead, 7 injured in Finland shooting",
+        "similarity": 0.3
+    },
+    {
+        "sentence1": "you don't use the search button much, do you?",
+        "sentence2": "you don't use the search button AT ALL, do you?",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "A black horse is running around.",
+        "sentence2": "The horse is running.",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "Soccer-France to host Australia for first time in October",
+        "sentence2": "NRA official to face questions for first time since controversial remarks",
+        "similarity": 0.0
+    },
+    {
+        "sentence1": "Sudan Blocks YouTube Over Anti-Islam Film",
+        "sentence2": "Pakistan's PM orders YouTube halt over anti-Islam film",
+        "similarity": 0.6
+    },
+    {
+        "sentence1": "Obama economic tour buffeted by low expectations",
+        "sentence2": "Obama encourages Boy Scouts to end ban on gays",
+        "similarity": 0.4
+    },
+    {
+        "sentence1": "A few miles further east is Tehuacan, where corn may first have been domesticated 4,000 years ago.",
+        "sentence2": "A few miles west are the pyramids of Teotihuacan, where corn may first have been domesticated 4,000 years ago.",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "A man is lifting heavy weights.",
+        "sentence2": "A wallaby is licking a woman's hand.",
+        "similarity": 0.1
+    },
+    {
+        "sentence1": "Two years later, the insurance coverage would begin.",
+        "sentence2": "Under the agreement, Medicare coverage for drug benefits would begin in 2006.",
+        "similarity": 0.6
+    },
+    {
+        "sentence1": "MERS respiratory illness found in U.S., officials confirm",
+        "sentence2": "First case of MERS, a SARS-like respiratory illness, reported in North America",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "There are now 37 active probable cases in the GTA, compared with 70 cases on June 6.",
+        "sentence2": "And, globally, the number of active probable cases has declined to 573.",
+        "similarity": 0.3
+    },
+    {
+        "sentence1": "A white dog running through the snow",
+        "sentence2": "The black and white dog runs through the grass.",
+        "similarity": 0.3
+    },
+    {
+        "sentence1": "The man is playing the guitar.",
+        "sentence2": "A man is playing guitar.",
+        "similarity": 1.0
+    },
+    {
+        "sentence1": "Someone drills a hole in a strip of wood with a power drill.",
+        "sentence2": "A man drills a hole in a piece of wood.",
+        "similarity": 0.6
+    },
+    {
+        "sentence1": "4.1 magnitude quake strikes U.S",
+        "sentence2": "7.2 magnitude earthquake strikes Philippines",
+        "similarity": 0.2
+    },
+    {
+        "sentence1": "The Federal Trade Commission (FTC) asked Congress today for additional authority to fight unwanted Internet spam, which now accounts for up to half of all e-mail traffic.",
+        "sentence2": "The Federal Trade Commission asked Congress yesterday for broader powers to attack the rapidly growing problem of spam, which new studies show accounts for half of all e-mail traffic.",
+        "similarity": 1.0
+    },
+    {
+        "sentence1": "A boy is playing the piano.",
+        "sentence2": "A man is playing a piano.",
+        "similarity": 0.6
+    },
+    {
+        "sentence1": "A animal is eating.",
+        "sentence2": "The animal is hopping.",
+        "similarity": 0.1
+    },
+    {
+        "sentence1": "Bollywood cuts costs by a third as rupee collapse bites",
+        "sentence2": "Bollywood cuts costs as rupee crisis bites",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "A grey cat with green eyes looking into the camera.",
+        "sentence2": "A grey, black, and white cat looking at the camera.",
+        "similarity": 0.6
+    },
+    {
+        "sentence1": "One dead in Ohio school shooting",
+        "sentence2": "1 dead, 4 wounded in Ohio school shooting",
+        "similarity": 0.6
+    },
+    {
+        "sentence1": "The recent turnaround in the stock market and an easing in unemployment claims should keep consumer expectations at current levels and may signal more favorable economic times ahead.",
+        "sentence2": "The recent turnaround in the stock market and an easing in unemployment claims \"may signal more favorable economic times ahead,\" she said.",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "U.S. prosecutors have arrested more than 130 individuals and have seized more than $17 million in a continuing crackdown on Internet fraud and abuse.",
+        "sentence2": "More than 130 people have been arrested and $17 million worth of property seized in an Internet fraud sweep announced Friday by three U.S. government agencies.",
+        "similarity": 0.9
+    },
+    {
+        "sentence1": "Mandela released from hospital",
+        "sentence2": "Israeli president released from hospital",
+        "similarity": 0.2
+    },
+    {
+        "sentence1": "A group of sheep grazing on a hill.",
+        "sentence2": "A group of sheep are on a hill.",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "A lone cow sits in the cold of the yard.",
+        "sentence2": "a black and white cow standing in the field.",
+        "similarity": 0.4
+    },
+    {
+        "sentence1": "No deal on fiscal cliff as Obama goes on holiday",
+        "sentence2": "John Boehner: from humble origin, fiscal cliff may be his undoing",
+        "similarity": 0.2
+    },
+    {
+        "sentence1": "Jonny Bairstow and Eoin Morgan shine for England in Mumbai",
+        "sentence2": "Bairstow hits ton in India tour match",
+        "similarity": 0.4
+    },
+    {
+        "sentence1": "Aung San Suu Kyi to address British MPs",
+        "sentence2": "Burma's Aung San Suu Kyi to address parliament on June visit",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "regional and international non-proliferation issues should be addressed through dialogue and negotiations. ",
+        "sentence2": "the second proposal was that regional and international non-proliferation issues should be addressed through dialogue and negotiations.",
+        "similarity": 0.7
+    },
+    {
+        "sentence1": "A red truck spins their tires while a black one leaves the frame.",
+        "sentence2": "Red truck spinning tires and emitting smoke from behind.",
+        "similarity": 0.6
+    },
+    {
+        "sentence1": "A small child smiling at the camera.",
+        "sentence2": "A small child sits on a cement wall near white flower.",
+        "similarity": 0.3
+    },
+    {
+        "sentence1": "This has been a persistent problem that has not been solved, investigation board member Steven Wallace said.",
+        "sentence2": "This was a persistent problem which has not been solved, mechanically and physically, said board member Steven Wallace.",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "The man is pushing the van.",
+        "sentence2": "The woman is singing.",
+        "similarity": 0.0
+    },
+    {
+        "sentence1": "In a not-too-subtle swipe at Dean, he predicted Americans would not elect a Democrat \"who sounds an uncertain trumpet in these dangerous times.\"",
+        "sentence2": "They will not elect as president a Democrat who sounds an uncertain trumpet in these dangerous times.\"",
+        "similarity": 0.7
+    },
+    {
+        "sentence1": "Egyptians vote in landmark presidential election",
+        "sentence2": "Egyptians go to polls in historic election",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "Mr. Sweeney outlined plans for the campaign in a speech last night in Philadelphia at the annual meeting of the American Political Science Association.",
+        "sentence2": "Sweeney was to outline plans for the campaign in a speech on Saturday night at the annual meeting of the American Political Science Association.",
+        "similarity": 0.7
+    },
+    {
+        "sentence1": "A woman mixes a beauty treatment in a glass.",
+        "sentence2": "A woman is mixing a cream in a glass with a spoon.",
+        "similarity": 0.7
+    },
+    {
+        "sentence1": "Ha, ha, ha, ha, ha, ha!",
+        "sentence2": "Ah ha, ha, ha, ha, ha!",
+        "similarity": 1.0
+    },
+    {
+        "sentence1": "From Florida to Alaska, thousands of revelers vowed to push for more legal rights, including same-sex marriages.",
+        "sentence2": "Thousands of revellers, celebrating the decision, vowed to push for more legal rights, including same-sex marriages.",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "Cristiano Ronaldo hat-trick fires Portugal to 2014 World Cup finals",
+        "sentence2": "Ronaldo hat-trick fires Portugal to World Cup",
+        "similarity": 1.0
+    },
+    {
+        "sentence1": "A woman cuts up broccoli.",
+        "sentence2": "A woman is cutting broccoli.",
+        "similarity": 1.0
+    },
+    {
+        "sentence1": "4 foreign soldiers killed in Afghan east",
+        "sentence2": "4 French Soldiers Reported Killed in Afghanistan",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "I don't understand how freedom of speech will be prohibited.",
+        "sentence2": "Your freedom of speech will be no more prohibited than it is today.",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "The Dow Jones industrial average <.DJI> added 28 points, or 0.27 percent, at 10,557, hitting its highest level in 21 months.",
+        "sentence2": "The Dow Jones industrial average <.DJI> rose 49 points, or 0.47 percent, to 10,578.",
+        "similarity": 0.5
+    },
+    {
+        "sentence1": "A man is fishing.",
+        "sentence2": "A man is exercising.",
+        "similarity": 0.1
+    },
+    {
+        "sentence1": "Iraqi police opened fire in downtown Baghdad today after demonstrators stormed a police station demanding they be given jobs they claimed to have paid bribes for.",
+        "sentence2": "Iraqi police opened fire in downtown Baghdad Wednesday after demonstrators demanding jobs stormed a police station and threw stones at officers, police said.",
+        "similarity": 0.7
+    },
+    {
+        "sentence1": "A man riding a white horse in an arena.",
+        "sentence2": "A man riding a white horse.",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "6.3-magnitude quake hits Honshu, Japan: CENC",
+        "sentence2": "6.7-magnitude earthquake jolts Taiwan: CENC",
+        "similarity": 0.4
+    },
+    {
+        "sentence1": "A person is cutting some burrata cheese.",
+        "sentence2": "The person is slicing cheese.",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "Pak missions in UAE gear up for elections",
+        "sentence2": "Islamist parties in Egypt unite for elections",
+        "similarity": 0.3
+    },
+    {
+        "sentence1": "Obama to refocus on economy in State of the Union",
+        "sentence2": "Factbox: What to look for in Obama's State of the Union speech",
+        "similarity": 0.4
+    },
+    {
+        "sentence1": "Halliburton 1Q income rises 23 pct",
+        "sentence2": "Halliburton Q1 profits rise on strong North America sales",
+        "similarity": 0.5
+    },
+    {
+        "sentence1": "East German rights activist Gauck elected president",
+        "sentence2": "Joachim Gauck elected as German president",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "Two killed in new Israeli strike on Gaza: medics",
+        "sentence2": "5 die in strikes on Gaza, militants barrage Israel",
+        "similarity": 0.4
+    },
+    {
+        "sentence1": "Gunman kills 6 in shooting at Wisconsin Sikh temple",
+        "sentence2": "Gunman kills six in shooting at Sikh temple in Wisconsin",
+        "similarity": 1.0
+    },
+    {
+        "sentence1": "A little boy is playing a guitar.",
+        "sentence2": "A boy is playing guitar.",
+        "similarity": 0.9
+    },
+    {
+        "sentence1": "government initiatives to disarm have been ineffective. ",
+        "sentence2": "governance institutions have been ineffective for a long time in somalia.",
+        "similarity": 0.2
+    },
+    {
+        "sentence1": "Austrian found hoarding 56 stolen skulls in home museum",
+        "sentence2": "Austrian man charged after 56 human skulls are found at his home",
+        "similarity": 0.9
+    },
+    {
+        "sentence1": "Novice 'steered South Korea ferry'",
+        "sentence2": "South Korea ferry captain arrested",
+        "similarity": 0.5
+    },
+    {
+        "sentence1": "Cuba sees \"major role\" for foreign investment",
+        "sentence2": "House set to vote on plan to reopen government",
+        "similarity": 0.0
+    },
+    {
+        "sentence1": "Cambodian opposition leader Sam Rainsy returns to stir up election",
+        "sentence2": "Cambodia opposition head turns to parliament in poll bid",
+        "similarity": 0.6
+    },
+    {
+        "sentence1": "A woman wearing a pink shirt jumps in the air with her arms and legs spread to her sides.",
+        "sentence2": "A man wearing suspenders and sunglasses leaps up in the air with his arms and legs spread out to the side.",
+        "similarity": 0.5
+    },
+    {
+        "sentence1": "Latest Anti-Muslim Violence in Burma Kills 1, Injures 10",
+        "sentence2": "World Briefing | Asia: Myanmar: Deadly Anti-Muslim Violence Flares Up",
+        "similarity": 0.5
+    },
+    {
+        "sentence1": "The tech-heavy Nasdaq composite index fell 3.99, or 0.2 percent, to 1,682.72, following a two-day win of 55.93.",
+        "sentence2": "The technology-laced Nasdaq Composite Index .IXIC eased 8.52 points, or 0.51 percent, to 1,670.21.",
+        "similarity": 0.3
+    },
+    {
+        "sentence1": "President Bush raised a record-breaking $49.5 million for his re-election campaign over the last three months, with contributions from 262,000 Americans, the president's campaign chairman said Tuesday.",
+        "sentence2": "President Bush has raised $83.9 million since beginning his re-election campaign in May, and has $70 million of that left to spend, his campaign said Tuesday.",
+        "similarity": 0.5
+    },
+    {
+        "sentence1": "Lakers Fire Coach Mike Brown After 1-4 Start",
+        "sentence2": "Lakers fire Mike Brown after 1-4 start",
+        "similarity": 0.9
+    },
+    {
+        "sentence1": "A double decker red United bus on a city street.",
+        "sentence2": "A double decker bus drives on a city street.",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "A boy is cutting paper.",
+        "sentence2": "A man is loading a rifle.",
+        "similarity": 0.0
+    },
+    {
+        "sentence1": "Gore Vidal dead at 86: Legendary author, playwright, and politician dies",
+        "sentence2": "Gore Vidal, celebrated author, playwright, dies at 86",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "Two teams are playing soccer.",
+        "sentence2": "Different sets of teams are playing football on a field.",
+        "similarity": 0.5
+    },
+    {
+        "sentence1": "A boy is playing with a toy.",
+        "sentence2": "A boy plays a handheld game.",
+        "similarity": 0.6
+    },
+    {
+        "sentence1": "the united states and the allies of the united states believe iran is pursuing nuclear arms. ",
+        "sentence2": "the united states and some european nations believe that iran's nuclear projects are for the purpose of making nuclear weapons.",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "ALTHOUGH SATELLITE INTENSITY ESTIMATES FROM TAFB AND SAB ARE ONLY T./",
+        "sentence2": "SUBJECTIVE DVORAK INTENSITY ESTIMATES FROM TAFB AND SAB INCREASED TO  KT.",
+        "similarity": 0.4
+    },
+    {
+        "sentence1": "Five-time Tour de France winner and cancer survivor Lance Armstrong had a few words of advice for other cancer survivors in Denver on Friday.",
+        "sentence2": "Five-time Tour de France winner Lance Armstrong is in Denver today for a meeting about surviving cancer.",
+        "similarity": 0.7
+    },
+    {
+        "sentence1": "the new law attempts to remove any legal obstacles to building more advanced spy satellites and to help innovation in japans's space industry. ",
+        "sentence2": "the purpose of the new law is to remove any legal obstacles to building more advanced spy satellites and to encourage innovation in japans's space industry.",
+        "similarity": 1.0
+    },
+    {
+        "sentence1": "Cisco executives said they were encouraged by $1.3 billion in cash flow and the increase in net income, but hoped for a rebound.",
+        "sentence2": "Cisco executives were encouraged by $1.3 billion in cash flow and the increase in net income, but said they remained ``cautiously optimistic'' about a rebound.",
+        "similarity": 0.9
+    },
+    {
+        "sentence1": "the cfe treaty was signed in 1990. ",
+        "sentence2": "the cfe treaty was established in 1990.",
+        "similarity": 1.0
+    },
+    {
+        "sentence1": "Man charged after MP hurt in attack",
+        "sentence2": "Man charged with murder in flat",
+        "similarity": 0.3
+    },
+    {
+        "sentence1": "A black and white cat lying on a blanket.",
+        "sentence2": "A black and white cat sleeping on its side on a purple blanket.",
+        "similarity": 0.6
+    },
+    {
+        "sentence1": "For the trillionth time, I've never said rehabilitation doesn't work.",
+        "sentence2": "The point you quote should say \"I never said rehabilitation could never work.\"",
+        "similarity": 0.7
+    },
+    {
+        "sentence1": "the u.s., other western nations and nato condemned the violence. ",
+        "sentence2": "the u.s., other western nations and nato demanded a cease-fire.",
+        "similarity": 0.7
+    },
+    {
+        "sentence1": "A man sliced through a bunch of water bottles with a knife.",
+        "sentence2": "A man is slicing a line of water bottles with a knife",
+        "similarity": 0.9
+    },
+    {
+        "sentence1": "A bird sits in a tree.",
+        "sentence2": "A bird sits in a leafless tree.",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "FAA continues ban on US flights to Tel Aviv",
+        "sentence2": "FAA lifts ban on U.S. flights to Tel Aviv",
+        "similarity": 0.4
+    },
+    {
+        "sentence1": "Sony said the PSP would also feature a 4.5-inch LCD screen, Memory Stick expansion slots.",
+        "sentence2": "It also features a 4.5 in back-lit LCD screen and memory expansion facilities.",
+        "similarity": 0.6
+    },
+    {
+        "sentence1": "general nikolai n. urakov stated by telephone that the state scientific center of applied microbiology has quite reliable systems of protection in case of emergency. ",
+        "sentence2": "general nikolai n. urakov is the longtime director of the the state scientific center of applied microbiology.",
+        "similarity": 0.5
+    },
+    {
+        "sentence1": "An animal is walking on the ground.",
+        "sentence2": "A solenodon is walking along the ground.",
+        "similarity": 0.6
+    },
+    {
+        "sentence1": "A lion is walking in an enclosed area.",
+        "sentence2": "A lion is walking around.",
+        "similarity": 0.5
+    },
+    {
+        "sentence1": "Russian aircraft wreckage found after a year",
+        "sentence2": "Russia evacuates embassy in Libya after attack",
+        "similarity": 0.0
+    },
+    {
+        "sentence1": "Mandela to spend Christmas in hospital",
+        "sentence2": "Mandela movie to open this month in South Africa",
+        "similarity": 0.0
+    },
+    {
+        "sentence1": "Bangladesh Muslims torch Buddhist shrines, police say",
+        "sentence2": "Muslims torch Buddhist temples",
+        "similarity": 0.7
+    },
+    {
+        "sentence1": "Last week, his lawyers asked Warner to grant clemency under conditions that would have lead to a new sentencing hearing.",
+        "sentence2": "Last week, his lawyers asked Gov. Mark R. Warner to grant clemency, but the governor declined to intervene.",
+        "similarity": 0.5
+    },
+    {
+        "sentence1": "Someone is greasing a pan.",
+        "sentence2": "Smeone is laying down.",
+        "similarity": 0.1
+    },
+    {
+        "sentence1": "The Standard & Poor's 500 index advanced 6.48, or 0.7 per cent, to 990.51.",
+        "sentence2": "The broader Standard & Poor's 500 Index .SPX rose 6.48 points, or 0.66 percent, to 990.51.",
+        "similarity": 0.9
+    },
+    {
+        "sentence1": "an indian government official spoke on condition of anonymity. ",
+        "sentence2": "the official spoke on condition of anonymity.",
+        "similarity": 0.7
+    },
+    {
+        "sentence1": "A boy is playing piano and singing.",
+        "sentence2": "A pig is agitating a lion.",
+        "similarity": 0.0
+    },
+    {
+        "sentence1": "Two females jump off of swings.",
+        "sentence2": "Two girls jump out of swings.",
+        "similarity": 0.9
+    },
+    {
+        "sentence1": "You are a Christian.",
+        "sentence2": "Therefore you are not a Christian.",
+        "similarity": 0.3
+    },
+    {
+        "sentence1": "A girl riding a brown horse.",
+        "sentence2": "The jockey is wearing purple and riding a brown horse.",
+        "similarity": 0.4
+    },
+    {
+        "sentence1": "The boy fell off his bike.",
+        "sentence2": "A boy falls off his bike.",
+        "similarity": 1.0
+    },
+    {
+        "sentence1": "Rep. Peter Deutsch, D-Fla., criticized the FDA's efforts in Florida.",
+        "sentence2": "Peter Deutsch, D-Fla., said he wanted to congratulate the FDA.",
+        "similarity": 0.4
+    },
+    {
+        "sentence1": "A man is spreading shreded cheese on a pizza.",
+        "sentence2": "A man is spreading shredded cheese on an uncooked pizza.",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "Bangladesh Opposition Leader Sentenced to Death for War Crimes",
+        "sentence2": "Bangladesh: Fugitive Sentenced to Death by War Crimes Tribunal",
+        "similarity": 0.7
+    },
+    {
+        "sentence1": "Three dogs are playing in the water.",
+        "sentence2": "Three dogs swim in the water.",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "15 killed and scores injured in suicide bombing at Russian train station",
+        "sentence2": "Suicide bomber kills 14 at Russian train station",
+        "similarity": 0.6
+    },
+    {
+        "sentence1": "Golf: Westwood takes lead in Dubai Desert Classic",
+        "sentence2": "Westwood in front a Dubai Desert Classic",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "Tehelka editor embroiled in sex assault scam",
+        "sentence2": "Tehelka editor steps down after allegations of sexual misconduct",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "A man is rapidly chopping some mushrooms using a knife.",
+        "sentence2": "A person is quickly chopping mushrooms with a knife.",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "Another said its members would continue to call the more than 50 million phone numbers on the Federal Trade Commission's list.",
+        "sentence2": "Meantime, the Direct Marketing Association said its members should not call the nearly 51 million numbers on the list.",
+        "similarity": 0.4
+    },
+    {
+        "sentence1": "AMD's chip sales jumped 7 percent year-on-year to $402 million.",
+        "sentence2": "Second-quarter sales grew 7 percent, to $645 million from $600 million in 2002.",
+        "similarity": 0.4
+    },
+    {
+        "sentence1": "A black dog standing in front of yellow flowers.",
+        "sentence2": "A black dog standing in a field.",
+        "similarity": 0.6
+    },
+    {
+        "sentence1": "Under NASD regulations, Mr. Young can file a response and request a hearing before an NASD panel.",
+        "sentence2": "The analyst, already let go by Merrill, can request a hearing before a NASD panel.",
+        "similarity": 0.6
+    },
+    {
+        "sentence1": "Protesters swamp streets to reclaim revolution",
+        "sentence2": "Egypt: Protesters storm Muslim Brotherhood's HQ",
+        "similarity": 0.3
+    },
+    {
+        "sentence1": "the spokesman said there will be an exchange of opinions on topical international and regional matters based on a joint working relationship at the heart of the u.n. kamynin said russia recognizes the participation of libya in the work of the u.n. security council. ",
+        "sentence2": "kamynin said there will be an exchange of opinions on topical international and regional matters based on a joint working relationship at the heart of the un.",
+        "similarity": 0.6
+    },
+    {
+        "sentence1": "We believe that it is not necessary to have a divisive confirmation fight over a Supreme Court appointment, Daschle wrote.",
+        "sentence2": "We believe that it is not necessary to have a divisive confirmation fight, Daschle of South Dakota wrote the Republican president.",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "This moves us a lot closer to saying that the foam can do this kind of damage, said Hubbard, a member of the Columbia Accident Investigation Board.",
+        "sentence2": "I think this moves us a lot closer toward saying that foam can do this kind of damage, Hubbard said.",
+        "similarity": 0.7
+    },
+    {
+        "sentence1": "Pakistan condemns U.S. drone strikes",
+        "sentence2": "Pakistan convoy heads to protest US drone strikes",
+        "similarity": 0.6
+    },
+    {
+        "sentence1": "Democracy is a threat to liberty.",
+        "sentence2": "Democracy has nothing to do with liberty.",
+        "similarity": 0.4
+    },
+    {
+        "sentence1": "Russia finds dead lawyer Magnitsky guilty in posthumous trial",
+        "sentence2": "Russia convicts dead lawyer Magnitsky in posthumous trial",
+        "similarity": 1.0
+    },
+    {
+        "sentence1": "the treaty was first signed in 1990. ",
+        "sentence2": "the cfe treaty was signed in 1990.",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "A softball player swinging at a pitch.",
+        "sentence2": "A baseball player hitting the ball",
+        "similarity": 0.6
+    },
+    {
+        "sentence1": "Owners, others charged in Bangladesh factory fire",
+        "sentence2": "50 survivors found in Bangladesh factory",
+        "similarity": 0.4
+    },
+    {
+        "sentence1": "A shirtless man playing football on a lawn.",
+        "sentence2": "A shirtless man catches a football",
+        "similarity": 0.9
+    },
+    {
+        "sentence1": "Panda's play on a swing.",
+        "sentence2": "A man is playing guitar.",
+        "similarity": 0.2
+    },
+    {
+        "sentence1": "India starts voting in world's largest election",
+        "sentence2": "India voters kick off world\u201a\u00c4\u00f4s biggest election",
+        "similarity": 1.0
+    },
+    {
+        "sentence1": "Three individuals are posing on skis behind a \"no skiing\" sign.",
+        "sentence2": "Three people on skis are standing behind a no skiing sign.",
+        "similarity": 0.9
+    },
+    {
+        "sentence1": "Kansas City drafted outfielder Chris Lubanski, from Kennedy-Kenrick High School in Pennsylvania, with the fifth pick.",
+        "sentence2": "The Royals chose Chris Lubanski, a high school outfielder from Pennsylvania who hit .528, with the fifth pick.",
+        "similarity": 0.7
+    },
+    {
+        "sentence1": "Doctors say one or both boys may die, and that some brain damage is possible if they survive.",
+        "sentence2": "Doctors said that one or both of the boys may die and that if they survive, some brain damage is possible.",
+        "similarity": 1.0
+    },
+    {
+        "sentence1": "Hispanics, the fastest growing ethnic group in the US, have overtaken blacks to become the largest minority in the US, according to newly released government figures.",
+        "sentence2": "Hispanics have officially overtaken African Americans as the largest minority group in the US, according to a report released by the US Census Bureau.",
+        "similarity": 0.7
+    },
+    {
+        "sentence1": "A man is walking on a rope.",
+        "sentence2": "A man is riding a mo-pad.",
+        "similarity": 0.1
+    },
+    {
+        "sentence1": "The black and white cat is looking up at the camera.",
+        "sentence2": "A black and white dog looking at the camera.",
+        "similarity": 0.4
+    },
+    {
+        "sentence1": "A woman is cooking something.",
+        "sentence2": "A woman is pouring ingredients into a frying pan.",
+        "similarity": 0.6
+    },
+    {
+        "sentence1": "Four civilians, three NATO soldiers killed in Afghanistan",
+        "sentence2": "Three NATO soldiers killed in Afghanistan",
+        "similarity": 0.7
+    },
+    {
+        "sentence1": "An elderly man in a blue shirt is holding up a piece of canvas art.",
+        "sentence2": "A black man is walking next to a building in a big city.",
+        "similarity": 0.0
+    },
+    {
+        "sentence1": "Scribner's body was found floating in the city's Portage Bay, where he lived with his wife in a houseboat.",
+        "sentence2": "A kayaker found Dr. Scribner's body floating near the doctor's houseboat in Portage Bay, where he was eating lunch when his wife, Ethel, left for an appointment.",
+        "similarity": 0.6
+    },
+    {
+        "sentence1": "SC dismisses govt's review plea in Vodafone tax case",
+        "sentence2": "SC dismisses govt's review petition on Vodafone tax verdict",
+        "similarity": 0.9
+    },
+    {
+        "sentence1": "Philippine quake death toll climbs to 73",
+        "sentence2": "Death toll in Philippines quake jumps to 85",
+        "similarity": 0.6
+    },
+    {
+        "sentence1": "Thai opposition party to boycott general election",
+        "sentence2": "Thai opposition announces election boycott",
+        "similarity": 1.0
+    },
+    {
+        "sentence1": "Suicide bomber kills policeman in Pakistan",
+        "sentence2": "Suicide Bombers Kill 3 Soldiers in Pakistan",
+        "similarity": 0.5
+    },
+    {
+        "sentence1": "Bodies Found at Russian Jet Crash in Indonesia",
+        "sentence2": "12 bodies found at Russian jet crash in Indonesia",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "A man sitting on the grass looking toward the sky.",
+        "sentence2": "The train is riding on the tracks in the snow.",
+        "similarity": 0.0
+    },
+    {
+        "sentence1": "But church members and observers say they expect that the decision could be problematic for many Episcopalians.",
+        "sentence2": "But church members and observers say they anticipate that the decision here could pose doctrinal problems for some Episcopalians who believe the Bible prohibits homosexuality.",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "A person is cutting a meat.",
+        "sentence2": "A person riding a mechanical bull",
+        "similarity": 0.0
+    },
+    {
+        "sentence1": "He was voluntarily castrated in 2001, an operation he contends removed his ability to become sexually aroused.",
+        "sentence2": "DeVries, who was voluntarily castrated in August 2001, has said the surgery took away his ability to become sexually aroused.",
+        "similarity": 0.9
+    },
+    {
+        "sentence1": "A women laying across two men sitting on a sofa.",
+        "sentence2": "A man and two women smiling at the camera while sitting on a blue sofa.",
+        "similarity": 0.4
+    },
+    {
+        "sentence1": "Isaac drenches Haiti, heads toward Cuba, Florida",
+        "sentence2": "Isaac nears Haiti with homeless quake population",
+        "similarity": 0.5
+    },
+    {
+        "sentence1": "Shares Move Higher on Wall Street",
+        "sentence2": "Sandy strengthens as nears coast; Wall Street shut",
+        "similarity": 0.1
+    },
+    {
+        "sentence1": "New coronavirus can probably can be passed person to person- WHO",
+        "sentence2": "WHO: New virus can probably pass person to person",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "at the state scientific center of applied microbiology there is every kind of deadly bacteria that was studied for use in the secret biological weapons program of the soviet union. ",
+        "sentence2": "the state scientific center of applied microbiology has been working with western scientists to convert the complex into a biomedical manufacturing site.",
+        "similarity": 0.7
+    },
+    {
+        "sentence1": "The rule bars groups from airing ads that promote, support, attack or oppose a candidate at any time.",
+        "sentence2": "It upheld fallback rules that bar the same groups from airing ads that promote, support, attack or oppose a candidate at any time.",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "Five cows are grazing beside the road.",
+        "sentence2": "Several sheep grazing in the field.",
+        "similarity": 0.2
+    },
+    {
+        "sentence1": "A boy and a girl playing on the beach.",
+        "sentence2": "A dog playing in the waves with a ball.",
+        "similarity": 0.2
+    },
+    {
+        "sentence1": "China stocks end higher on PMI at midday",
+        "sentence2": "Chinese stocks open higher Thursday",
+        "similarity": 0.4
+    },
+    {
+        "sentence1": "A man is adding oil to a pot.",
+        "sentence2": "A dog is catching a fish in a river.",
+        "similarity": 0.0
+    },
+    {
+        "sentence1": "Suspected US drone kills 3 militants in Pakistan",
+        "sentence2": "U.S. drone kills 4 militants in Pakistan",
+        "similarity": 0.7
+    },
+    {
+        "sentence1": "Nadal tumbles into French Open final",
+        "sentence2": "Nadal through to seventh French Open final",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "A woman is adding spices on a meat.",
+        "sentence2": "Woman is adding sugar to meat.",
+        "similarity": 0.6
+    },
+    {
+        "sentence1": "Prince's christening a blend of old and new",
+        "sentence2": "When is Prince George's christening? Baptism plan, royal baby's godparents and all the details",
+        "similarity": 0.4
+    },
+    {
+        "sentence1": "No, none of those factors account for the recent warming.",
+        "sentence2": "You don't know if those factors account for the warming, or not.",
+        "similarity": 0.6
+    },
+    {
+        "sentence1": "Previously, it had reported a profit of $12 million, or 0 cents a share, for that period.",
+        "sentence2": "Previously, it had reported a small profit of $12 million, or break-even on a per-share basis, for the period.",
+        "similarity": 0.9
+    },
+    {
+        "sentence1": "Three dogs racing on a dirt track",
+        "sentence2": "Cars racing on a dirt track",
+        "similarity": 0.3
+    },
+    {
+        "sentence1": "An orange tabby cat sleeping on the sofa.",
+        "sentence2": "A man is watching TV on the foot of his bed.",
+        "similarity": 0.1
+    },
+    {
+        "sentence1": "Five dead in Pakistan suicide blast",
+        "sentence2": "At least 63 dead in Pakistan factory blaze",
+        "similarity": 0.2
+    },
+    {
+        "sentence1": "Syria opposition threatens to quit talks",
+        "sentence2": "Syria opposition agrees to talks",
+        "similarity": 0.4
+    },
+    {
+        "sentence1": "Her birthday, 21 April, was declared a public holiday and she attended a reception and a ball.",
+        "sentence2": "When his grandmother, then-Princess Elizabeth, turned 21 in 1947, the day was declared a public holiday, and she attended a reception and a ball.",
+        "similarity": 0.6
+    },
+    {
+        "sentence1": "Two skydivers dead after colliding during US jump",
+        "sentence2": "Two skydivers dead after colliding during jump in Arizona",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "The person is riding the horse.",
+        "sentence2": "A man is riding a horse.",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "Two men are fighting.",
+        "sentence2": "Two men are fighting using a form of martial arts.",
+        "similarity": 0.6
+    },
+    {
+        "sentence1": "A man is opening a box using a knife.",
+        "sentence2": "A man is playing a guitar.",
+        "similarity": 0.0
+    },
+    {
+        "sentence1": "Moore had no immediate comment Tuesday.",
+        "sentence2": "Moore did not have an immediate response Tuesday.",
+        "similarity": 1.0
+    },
+    {
+        "sentence1": "Chief merchandising officers oversee the buying and development of merchandise, deciding the merchandising direction of the company, or basically what it should stand for.",
+        "sentence2": "He or she decides the merchandising direction of the company, or basically what it should stand for.",
+        "similarity": 0.6
+    },
+    {
+        "sentence1": "A man is playing the guitar.",
+        "sentence2": "A person is slicing a meat into pieces.",
+        "similarity": 0.0
+    },
+    {
+        "sentence1": "Egypt Army Launches New Air Raids on Sinai Militants",
+        "sentence2": "Egypt launches new assault against Sinai militants",
+        "similarity": 0.7
+    },
+    {
+        "sentence1": "Two little girls are playing on a trampoline.",
+        "sentence2": "Two little boys are playing on a playground.",
+        "similarity": 0.3
+    },
+    {
+        "sentence1": "the cfe treaty was established in 1990. ",
+        "sentence2": "the treat was originally signed in 1990.",
+        "similarity": 0.6
+    },
+    {
+        "sentence1": "'Israeli' arrested in Yemen Mossad spy",
+        "sentence2": "Israeli forces detain 2 in Hebron arrest raid",
+        "similarity": 0.3
+    },
+    {
+        "sentence1": "The military officer barked at the recruits.",
+        "sentence2": "An officer is talking to recruits.",
+        "similarity": 0.5
+    },
+    {
+        "sentence1": ". Sinful people do not get to heaven.",
+        "sentence2": "Or sin is removed upon entry to heaven.",
+        "similarity": 0.4
+    },
+    {
+        "sentence1": "A boat is on the water near a small plane.",
+        "sentence2": "A boat is in the water and a small airplane is on the dock.",
+        "similarity": 0.7
+    },
+    {
+        "sentence1": "Terri Schiavo, 39, is expected to die sometime in the next two weeks in the Tampa-area hospice where she has spent the past several years.",
+        "sentence2": "Terri Schiavo, 39, underwent the procedure at the Tampa Bay area hospice where she has been living for several years, said her father, Bob Schindler.",
+        "similarity": 0.4
+    },
+    {
+        "sentence1": "That truck was spotted in the Campbells Creek area, fitting that description, Morris said.",
+        "sentence2": "A black pickup truck was also seen in the Campbells Creek area, Morris said.",
+        "similarity": 0.6
+    },
+    {
+        "sentence1": "a black dog swimming through a river.",
+        "sentence2": "a black dog digging through the snow.",
+        "similarity": 0.2
+    },
+    {
+        "sentence1": "The witness, a 27-year-old Kosovan parking attendant with criminal convictions for dishonesty, was paid 10,000 by the News of the World.",
+        "sentence2": "The witness was a 27-year-old Kosovan parking attendant, who was paid by the News of the World, the court heard.",
+        "similarity": 0.7
+    },
+    {
+        "sentence1": "Corpses Of 53 Men Found South Of Baghdad",
+        "sentence2": "Iraqi officials: 50 bodies found south of Baghdad",
+        "similarity": 0.7
+    },
+    {
+        "sentence1": "The tech-loaded Nasdaq composite rose 20.96 points to 1595.91 to end at its highest level for 12 months.",
+        "sentence2": "The technology-laced Nasdaq Composite Index <.IXIC> climbed 19.11 points, or 1.2 percent, to 1,615.02.",
+        "similarity": 0.4
+    },
+    {
+        "sentence1": "Gunmen kill 10 in Philippine political violence",
+        "sentence2": "Five killed in Philippines volcano eruption",
+        "similarity": 0.1
+    },
+    {
+        "sentence1": "House-Senate deal reached on payroll tax measure",
+        "sentence2": "Negotiators reach deal on Congress payroll tax cut bill",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "A girl is eating a cupcake.",
+        "sentence2": "A woman is eating a cupcake.",
+        "similarity": 0.5
+    },
+    {
+        "sentence1": "We condemn and denounce the Governing Council, which is headed by the United States, Moqtada al-Sadr said.",
+        "sentence2": "We condemn the Governing Council headed by the United States, Sadr said in a fiery sermon at Koufa mosque near Najaf.",
+        "similarity": 0.7
+    },
+    {
+        "sentence1": "A woman peels shrimp.",
+        "sentence2": "A woman is peeling shrimp.",
+        "similarity": 1.0
+    },
+    {
+        "sentence1": "Malaysians vote in polls for stability or change",
+        "sentence2": "Malaysia elections: Malaysians vote with power at stake for first time",
+        "similarity": 0.7
+    },
+    {
+        "sentence1": "A woman is slicing mango.",
+        "sentence2": "A man is putting cheese on a tortilla.",
+        "similarity": 0.1
+    },
+    {
+        "sentence1": "The broader Standard & Poor's 500 Index <.SPX> was 0.46 points lower, or 0.05 percent, at 997.02.",
+        "sentence2": "The technology-laced Nasdaq Composite Index .IXIC was up 7.42 points, or 0.45 percent, at 1,653.44.",
+        "similarity": 0.2
+    },
+    {
+        "sentence1": "The army said the raid, which comes just days after Israeli troops shot and killed Abdullah Kawasme, the Hamas leader in the city, targeted militants in Hamas.",
+        "sentence2": "The arrests came just days after Israeli troops shot and killed Abdullah Kawasme, the militant group's leader in Hebron.",
+        "similarity": 0.6
+    },
+    {
+        "sentence1": "Until now, sales of the entertainment-oriented PCs have been limited to the United States, Canada and Korea.",
+        "sentence2": "The computers are currently sold in Canada, the United States, and Korea.",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "Syrian fighter pilot defects to Jordan",
+        "sentence2": "Syrian PM defects to Jordan",
+        "similarity": 0.3
+    },
+    {
+        "sentence1": "A monkey is swinging from limb to limb.",
+        "sentence2": "A monkey is swinging from tree to tree.",
+        "similarity": 0.7
+    },
+    {
+        "sentence1": "A man is cutting tomatoes.",
+        "sentence2": "A woman is cutting broccoli.",
+        "similarity": 0.3
+    },
+    {
+        "sentence1": "abuja is the capital of ",
+        "sentence2": "tskhinvali is the capital of georgia.",
+        "similarity": 0.2
+    },
+    {
+        "sentence1": "It seemed like an isolated incident,\" said Ariel Dean of Washington D.C., who earned a degree in political science.",
+        "sentence2": "It seemed like an isolated incident,'' said graduate Ariel Dean of Washington, D.C.",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "Tampering with medicine has been so lucrative that many of those arrested lived in million-dollar homes.",
+        "sentence2": "Tampering with medicine apparently was so lucrative, investigators said, that many of the suspects lived in million-dollar homes.",
+        "similarity": 0.9
+    },
+    {
+        "sentence1": "john duncan is great britain's ambassador for multilateral arms control and disarmament. ",
+        "sentence2": "at un assembly chinese government urges increased efforts toward global arms control and disarmament.",
+        "similarity": 0.3
+    },
+    {
+        "sentence1": "Some children are raising their hands and clapping.",
+        "sentence2": "Three children are playing soccer in the sand.",
+        "similarity": 0.0
+    },
+    {
+        "sentence1": "A car is moving through a road.",
+        "sentence2": "A car is driving down the road.",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "The lady cracked two raw eggs.",
+        "sentence2": "The woman is cracking eggs into a bowl.",
+        "similarity": 0.6
+    },
+    {
+        "sentence1": "Egyptian military spokesman denounces incitement against army",
+        "sentence2": "Labor ministry announcement due on Monday",
+        "similarity": 0.0
+    },
+    {
+        "sentence1": "The SIA says the DRAM market is expected to grow 2.9 percent to $15.7 billion in 2003 and 43 percent to $22.5 billion in 2004.",
+        "sentence2": "The Americas market will decline 2.1 percent to $30.6 billion in 2003, and then grow 15.7 percent to $35.4 billion in 2004.",
+        "similarity": 0.2
+    },
+    {
+        "sentence1": "The lawsuit names Shelley, a Democrat, and registrars in Los Angeles, Orange and San Diego counties.",
+        "sentence2": "The lawsuit named Secretary of State Kevin Shelley, a Democrat, and the registrars of voters in Los Angeles, Orange and San Diego counties.",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "A passenger train waiting in a station.",
+        "sentence2": "A passenger train sits in the station.",
+        "similarity": 1.0
+    },
+    {
+        "sentence1": "Woman in blue shift dress cutting into food.",
+        "sentence2": "A woman in a blue dress cuts a cake.",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "A woman is peeling a potato.",
+        "sentence2": "A man is slicing potato.",
+        "similarity": 0.5
+    },
+    {
+        "sentence1": "One dead, 11 hurt in LA car chaos",
+        "sentence2": "6 dead, 33 hurt in Cotabato blast",
+        "similarity": 0.2
+    },
+    {
+        "sentence1": "NYPD Twitter Outreach Backfires Badly",
+        "sentence2": "NYPD's twitter campaign backfires",
+        "similarity": 1.0
+    },
+    {
+        "sentence1": "Nirvana is very different than oblivion.",
+        "sentence2": "Nirvana is NOT oblivion.",
+        "similarity": 0.7
+    },
+    {
+        "sentence1": "Eight bottles of Harp lager lined up on the floor.",
+        "sentence2": "Eight bottles of Harp beer lined up on a wooden floor.",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "A woman puts ingredients in a whisked egg.",
+        "sentence2": "A man pours gasoline.",
+        "similarity": 0.0
+    },
+    {
+        "sentence1": "Israel conducts airstrike on Syria",
+        "sentence2": "Israel launches new airstrike against Syria",
+        "similarity": 0.9
+    },
+    {
+        "sentence1": "Red double decker bus.",
+        "sentence2": "A red, double-decker bus.",
+        "similarity": 1.0
+    },
+    {
+        "sentence1": "A man is eating wood.",
+        "sentence2": "A man is adding oil to car.",
+        "similarity": 0.1
+    },
+    {
+        "sentence1": "Three dogs are running in a field.",
+        "sentence2": "Two dogs are running in a grassy field",
+        "similarity": 0.6
+    },
+    {
+        "sentence1": "A man is karate kicking at another man wearing protective boxing gloves.",
+        "sentence2": "A man is kick boxing with a trainer.",
+        "similarity": 0.5
+    },
+    {
+        "sentence1": "To reach John A. Dvorak, who covers Kansas, call (816) 234-7743 or send e-mail to jdvorak@kctar.com.",
+        "sentence2": "To reach Brad Cooper, Johnson County municipal reporter, call (816) 234-7724 or send e-mail to bcooper@kcstar.com.",
+        "similarity": 0.2
+    },
+    {
+        "sentence1": "6.1-magnitude quake strikes Indonesia",
+        "sentence2": "6.1-magnitude quake hits Papua, Indonesia -- USGS",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "Mr McDevitt has been granted control of three crucial aspects of policing in the Solomons.",
+        "sentence2": "Mr McDevitt has been granted control of three aspects of policing by Commissioner William Morrell.",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "Israel ex-spy warns against 'messianic' Iran war",
+        "sentence2": "Israeli ex-spy boss: no trust in leadership over Iran \u2013 video",
+        "similarity": 0.6
+    },
+    {
+        "sentence1": "India gang-rape victim \"struggling against the odds\"",
+        "sentence2": "Indian rape victim dies in Singapore hospital",
+        "similarity": 0.4
+    },
+    {
+        "sentence1": "Two horses standing in a pen.",
+        "sentence2": "A group of horses grazing in a field.",
+        "similarity": 0.3
+    },
+    {
+        "sentence1": "Boeing's board is also expected to decide at its December meeting whether to offer the airplane for sale to airlines.",
+        "sentence2": "It is widely expected to give Bair formal approval to offer the plane for sale to airlines.",
+        "similarity": 0.5
+    },
+    {
+        "sentence1": "Armenians vote in parliamentary elections",
+        "sentence2": "Armenia's parliamentary vote a test for president",
+        "similarity": 0.6
+    },
+    {
+        "sentence1": "Zimmerman stopped for speeding in Texas, released with warning",
+        "sentence2": "Zimmerman pulled over in Texas for speeding, given warning",
+        "similarity": 1.0
+    },
+    {
+        "sentence1": "Russian lawmakers pass new bill restricting Internet",
+        "sentence2": "Russia says ballistic 'objects' fired in Mediterranean",
+        "similarity": 0.1
+    },
+    {
+        "sentence1": "A man is rowing a boat.",
+        "sentence2": "A man is shooting off a gun.",
+        "similarity": 0.2
+    },
+    {
+        "sentence1": "An overweight man is skipping rope.",
+        "sentence2": "A young man is dancing.",
+        "similarity": 0.2
+    },
+    {
+        "sentence1": "Burma's reforms bring easing of U.S. sanctions",
+        "sentence2": "Burma activists say go slow on easing sanctions",
+        "similarity": 0.5
+    },
+    {
+        "sentence1": "St. Paul Chairman and Chief Executive Jay S. Fishman, 51, will be CEO of the combined company.",
+        "sentence2": "Jay Fishman, 51, chairman and chief executive of St Paul, will be chief executive of the combined company.",
+        "similarity": 0.9
+    },
+    {
+        "sentence1": "No Americans were reported among the casualties, according to Capt. Michael Calvert, a spokesman for the regiment.",
+        "sentence2": "None of the casualties was Americans, said Capt. Michael Calvert, regiment spokesman.",
+        "similarity": 1.0
+    },
+    {
+        "sentence1": "Carney sets high bar to change at BoE",
+        "sentence2": "Carney sets high bar to changes at Bank of England",
+        "similarity": 1.0
+    },
+    {
+        "sentence1": "Sarkozy announces re-election bid",
+        "sentence2": "France's Nicolas Sarkozy makes his reelection bid official",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "A dog is running on the ground.",
+        "sentence2": "A girl is tapping her finger nails.",
+        "similarity": 0.0
+    },
+    {
+        "sentence1": "Although obesity can increase the risk of health problems, skeptics argue, so do smoking and high cholesterol.",
+        "sentence2": "Although obesity can increase the risk of a host of health problems, skeptics argue, so do smoking and high cholesterol, which are not considered diseases.",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "He will replace Ron Dittemore, who announced his resignation April 23.",
+        "sentence2": "Dittemore announced his plans to resign on April 23.",
+        "similarity": 0.5
+    },
+    {
+        "sentence1": "The bald eagle is perched on a rope.",
+        "sentence2": "Two bald eagles perched on a branch.",
+        "similarity": 0.5
+    },
+    {
+        "sentence1": "A man cuts up potatos.",
+        "sentence2": "A man slices potatoes.",
+        "similarity": 1.0
+    },
+    {
+        "sentence1": "North Korea's third test brings it closer to nuclear power status",
+        "sentence2": "NATO says North Korea nuclear test is grave threat to world peace",
+        "similarity": 0.4
+    },
+    {
+        "sentence1": "Scenario A assumes that the CO growth rate accelerates by .%/yr.",
+        "sentence2": "It assumes that methane growth rate accelerates by .%/yr.",
+        "similarity": 0.3
+    },
+    {
+        "sentence1": "A girl is playing a flute.",
+        "sentence2": "A band is playing on a stage.",
+        "similarity": 0.3
+    },
+    {
+        "sentence1": "Houston Texans head coach Gary Kubiak hospitalized after collapsing at game",
+        "sentence2": "Texans coach Gary Kubiak in stable condition after collapse",
+        "similarity": 0.6
+    },
+    {
+        "sentence1": "DreamTech never been ejaculated on as far as I know.",
+        "sentence2": "It has never been ejaculated on as far as I know.",
+        "similarity": 0.6
+    },
+    {
+        "sentence1": "Israel, Palestinians seek another meeting Monday: U.S. official",
+        "sentence2": "Palestinians: We Don't Want Kerry Mission to Fail",
+        "similarity": 0.3
+    },
+    {
+        "sentence1": "China launches probe and rover to moon",
+        "sentence2": "China launches first moon rover mission",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "Bangladesh garment factory fire 'kills 8'",
+        "sentence2": "Bangladesh garment factory collapse kills 149",
+        "similarity": 0.4
+    },
+    {
+        "sentence1": "The Bishop of Armidale, Peter Brain, was forthright.",
+        "sentence2": "He hasn't got much choice, said the Bishop of Armidale, Peter Brain.",
+        "similarity": 0.4
+    },
+    {
+        "sentence1": "A Royal Duty is based on his experiences with Diana, Princess of Wales and letters allegedly to and from her.",
+        "sentence2": "The royal household was bracing itself for any more revelations in A Royal Duty, based on the former servant\u2019s time with Diana, Princess of Wales.",
+        "similarity": 0.6
+    },
+    {
+        "sentence1": "Two soccer players battle for the ball during an intense match.",
+        "sentence2": "Two little orange and white dogs are in the snow.",
+        "similarity": 0.0
+    },
+    {
+        "sentence1": "Iranians Vote in Presidential Election",
+        "sentence2": "Keita Wins Mali Presidential Election",
+        "similarity": 0.1
+    },
+    {
+        "sentence1": "NATO Soldier Killed In Afghan Attack",
+        "sentence2": "NATO soldier killed in S. Afghanistan",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "If you want to buy $ billion in XYZ Inc. common stock, who cares?",
+        "sentence2": "If you want to buy a house or a SUV, again, who cares?",
+        "similarity": 0.3
+    },
+    {
+        "sentence1": "Pataki praised Abraham's decision, and LIPA Chairman Richard Kessel said the cable should be kept in operation permanently.",
+        "sentence2": "LIPA Chairman Richard Kessel said that meant the cable could be used \"as we see fit.",
+        "similarity": 0.5
+    },
+    {
+        "sentence1": "BlackBerry loses US$965m in Q2",
+        "sentence2": "BlackBerry loses $965M in 2nd quarter",
+        "similarity": 1.0
+    },
+    {
+        "sentence1": "The jury awarded TVT about $23 million in compensatory damages and roughly $108 million in punitive damages.",
+        "sentence2": "TVT Records sought $360 million in punitive damages and $30 million in compensatory damages, officials said.",
+        "similarity": 0.3
+    },
+    {
+        "sentence1": "The Dow Jones Industrial Average was up 0.3 per cent at 9,886.75, while the Nasdaq Composite index was 0.4 per cent higher at 1,986.97.",
+        "sentence2": "On Wall Street, the Dow Jones Industrial Average rose 0.5 per cent at 9,905.8 and the Nasdaq Composite added 0.7 per cent at 1,995.1.",
+        "similarity": 0.4
+    },
+    {
+        "sentence1": "Medics transport a patient on a stretcher.",
+        "sentence2": "A doctor rushes a patient on a stretcher.",
+        "similarity": 0.7
+    },
+    {
+        "sentence1": "Fairies don't exist - fine.",
+        "sentence2": "Leprechauns don't exist - fine.",
+        "similarity": 0.2
+    },
+    {
+        "sentence1": "A boy jumps into a not-so-crowded public pool.",
+        "sentence2": "A man jumps while on a snowboard.",
+        "similarity": 0.2
+    },
+    {
+        "sentence1": "A woman is opening a soda and drinking it.",
+        "sentence2": "A woman is riding on an elephant.",
+        "similarity": 0.1
+    },
+    {
+        "sentence1": "Several ferrets climb out of their cage.",
+        "sentence2": "Ferrets climb down from a shelf.",
+        "similarity": 0.4
+    },
+    {
+        "sentence1": "A little girl walks on a boardwalk with blue domes in the background.",
+        "sentence2": "A man going over a jump on his bike with a river in the background",
+        "similarity": 0.0
+    },
+    {
+        "sentence1": "The people threw the dummy over the cliff edge.",
+        "sentence2": "Some people are throwing a dummy off a cliff.",
+        "similarity": 0.9
+    },
+    {
+        "sentence1": "A woman is slicing butter.",
+        "sentence2": "A woman slices tofu.",
+        "similarity": 0.4
+    },
+    {
+        "sentence1": "Five convicted in Kosovo organ trafficking case",
+        "sentence2": "Kosovo: 3 get jail time in organ trafficking case",
+        "similarity": 0.6
+    },
+    {
+        "sentence1": "Antonio Monteiro de Castro, 58, currently director of the group\u2019s Latin America & Caribbean operations, will become chief operating officer from the same date.",
+        "sentence2": "BAT also said Antonio Monteiro de Castro, director for Latin America and the Caribbean, would become chief operating officer on January 1, 2004.",
+        "similarity": 0.7
+    },
+    {
+        "sentence1": "The tech-heavy Nasdaq Stock Markets composite index added 14.17 points or 0.94 per cent to 1,517.05.",
+        "sentence2": "The Nasdaq Composite index, full of technology stocks, was lately up around 18 points.",
+        "similarity": 0.4
+    },
+    {
+        "sentence1": "He hasn't been funny in years.",
+        "sentence2": "He hasn't been funny since Larry Bud Melman was on the show.",
+        "similarity": 0.7
+    },
+    {
+        "sentence1": "China's new PM rejects US hacking claims",
+        "sentence2": "China Premier Li rejects 'groundless' US hacking accusations",
+        "similarity": 1.0
+    },
+    {
+        "sentence1": "WORLD No. 2 Lleyton Hewitt has accused the Association of Tennis Professionals of malice, including an alleged attempt last year to dupe him into refusing a drug test.",
+        "sentence2": "World No.2 Lleyton Hewitt has accused his professional peers of long-standing malice, including an attempt last year to dupe him into refusing a drug test.",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "Peace Rules defeated Funny Cide in the Louisiana Derby.",
+        "sentence2": "But neither he nor Peace Rules could keep Funny Cide from drawing away.",
+        "similarity": 0.5
+    },
+    {
+        "sentence1": "You're \"a bunch of cells.\"",
+        "sentence2": "I'm \"a bunch of cells.\"",
+        "similarity": 0.5
+    },
+    {
+        "sentence1": "A black vehicle parked with a vies of low-lying mountains.",
+        "sentence2": "A black car parked in the dirt out in the country.",
+        "similarity": 0.5
+    },
+    {
+        "sentence1": "A black and white dog is carrying a stick in its mouth.",
+        "sentence2": "The black and white dog has a stick in his paws.",
+        "similarity": 0.6
+    },
+    {
+        "sentence1": "Five charged with terrorism offences",
+        "sentence2": "Five People Charged With Terror Offences",
+        "similarity": 1.0
+    },
+    {
+        "sentence1": "Two die in Syria violence after UN monitors land",
+        "sentence2": "Two year doping ban for Contador",
+        "similarity": 0.0
+    },
+    {
+        "sentence1": "Two girls with ponytails ride an amusement park ride.",
+        "sentence2": "A young girl is on a ride at an amusement park.",
+        "similarity": 0.6
+    },
+    {
+        "sentence1": "She said Jane Doe's lawyers asked Verizon to withhold her name because she was planning on challenging the subpoena.",
+        "sentence2": "Jane Doe, deciding to fight the subpoena, asked Verizon to withhold her name.",
+        "similarity": 0.7
+    },
+    {
+        "sentence1": "US drone strike kills four in North Waziristan",
+        "sentence2": "Suspected drone strike kills 4 in Pakistan",
+        "similarity": 0.5
+    },
+    {
+        "sentence1": "A person pours oil on a skillet.",
+        "sentence2": "A person is dicing an onion.",
+        "similarity": 0.2
+    },
+    {
+        "sentence1": "A man is cutting up a potato.",
+        "sentence2": "A man is cutting up carrots.",
+        "similarity": 0.5
+    },
+    {
+        "sentence1": "At Least 66 Killed in Bomb Blasts in Iraq",
+        "sentence2": "At Least 47 Killed In Baquba Blasts",
+        "similarity": 0.4
+    },
+    {
+        "sentence1": "Spain asks for bank rescue",
+        "sentence2": "Spaniard on trial for Cuban dissident\u2019s death",
+        "similarity": 0.0
+    },
+    {
+        "sentence1": "A cat rapidly swats a kid in the head.",
+        "sentence2": "A cat and a boy play together.",
+        "similarity": 0.5
+    },
+    {
+        "sentence1": "loose change started out as a work of fiction.",
+        "sentence2": "It finished as a work of fiction.",
+        "similarity": 0.4
+    },
+    {
+        "sentence1": "A man is dancing on the road.",
+        "sentence2": "A man is dancing.",
+        "similarity": 0.7
+    },
+    {
+        "sentence1": "Trial Date Set for Egypt's Muslim Brotherhood Chief",
+        "sentence2": "Syria's Muslim Brotherhood faces uphill battle",
+        "similarity": 0.4
+    },
+    {
+        "sentence1": "A person is walking down a stone path.",
+        "sentence2": "A man is walking down a sidewalk.",
+        "similarity": 0.7
+    },
+    {
+        "sentence1": "Typhoon Fitow makes landfall in east China",
+        "sentence2": "Typhoon Fitow slams into southeastern China",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "US, NATO Raise Doubts Russia Pulled Back from Ukraine Border",
+        "sentence2": "No Sign of Russian Withdrawal From Ukraine Border, Official Says",
+        "similarity": 0.5
+    },
+    {
+        "sentence1": "beijing police apprehend more than 20 people including 8 foreigners in suspicion of using and trafficking drugs in 2 pubs in a popular downtown area. ",
+        "sentence2": "beijing police apprehended more than 20 people in suspicion of using and trafficking drugs in 2 downtown bars.",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "A rabbit is running from an eagle.",
+        "sentence2": "A hare is running from a eagle.",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "I have  years of \"Neener Neener\" rights I use lettuce too.",
+        "sentence2": "I have  years of \"Neener Neener\" rights Hi Wiggies!",
+        "similarity": 0.5
+    },
+    {
+        "sentence1": "The broad Standard & Poor's 500 Index <.SPX> advanced 11 points, or 1.25 percent, to 931.",
+        "sentence2": "The Standard & Poor's 500 Index gained 10.89, or 1.2 percent, to 931.12 as of 12:01 p.m. in New York.",
+        "similarity": 0.6
+    },
+    {
+        "sentence1": "India Ink: Image of the Day: July 2",
+        "sentence2": "India Ink: Image of the Day: March 4",
+        "similarity": 0.6
+    },
+    {
+        "sentence1": "Chinese stocks open lower Wednesday",
+        "sentence2": "China stocks open lower Friday",
+        "similarity": 0.5
+    },
+    {
+        "sentence1": "A man is preparing a hanging rope.",
+        "sentence2": "A man is tying a noose.",
+        "similarity": 0.9
+    },
+    {
+        "sentence1": "Shinseki retires Wednesday after a 38-year career that included combat in Vietnam and head of U.S. peacekeeping efforts in Bosnia.",
+        "sentence2": "Shinseki's career included combat in Vietnam and head of U.S. peacekeeping efforts in Bosnia.",
+        "similarity": 0.6
+    },
+    {
+        "sentence1": "Group of horses grazing in grassy field.",
+        "sentence2": "A group of horses grazing in a field.",
+        "similarity": 0.9
+    },
+    {
+        "sentence1": "Three children in a ball pit.",
+        "sentence2": "Several children playing in a ball pit.",
+        "similarity": 0.7
+    },
+    {
+        "sentence1": "Spanish bailout dilemma gets more acute",
+        "sentence2": "Spanish dilemma gets more acute",
+        "similarity": 0.7
+    },
+    {
+        "sentence1": "A boy is playing a key-board.",
+        "sentence2": "A boy is sitting in a room playing a piano by lamp light.",
+        "similarity": 0.7
+    },
+    {
+        "sentence1": "Mumbai Indians puts T&T in its place",
+        "sentence2": "Indonesians vote for president in tight race",
+        "similarity": 0.0
+    },
+    {
+        "sentence1": "Two dogs playing in the snow.",
+        "sentence2": "Two black dogs in the snow.",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "investigators claim the british company was a cia cover. ",
+        "sentence2": "russian investigators stated that the british company was a cia cover.",
+        "similarity": 0.9
+    },
+    {
+        "sentence1": "A man is playing on his keyboard.",
+        "sentence2": "A man is playing a keyboard piano.",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "Judge Leroy Millette Jr. can reduce the punishment to life in prison without parole when Muhammad is formally sentenced Feb. 12, but Virginia judges rarely take such action.",
+        "sentence2": "Though the judge can reduce the punishment to life in prison without parole, experts say Virginia judges rarely take that opportunity.",
+        "similarity": 0.7
+    },
+    {
+        "sentence1": "Three boys are running on the beach playing a game.",
+        "sentence2": "Two young boys and one young man run on a beach with water behind them.",
+        "similarity": 0.6
+    },
+    {
+        "sentence1": "A person is frying meat in a pan.",
+        "sentence2": "A person is holding a skunk.",
+        "similarity": 0.1
+    },
+    {
+        "sentence1": "Someone pours olive oil into a bowl of tomato wedges.",
+        "sentence2": "The man poured oil on the tomato slices.",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "The cat is sitting between two bicycles in front of a door.",
+        "sentence2": "Than horse standing in a field in front of a fence.",
+        "similarity": 0.0
+    },
+    {
+        "sentence1": "A deer jumps a fence.",
+        "sentence2": "A deer jumping over a fence.",
+        "similarity": 1.0
+    },
+    {
+        "sentence1": "French raid wine cellar for austerity auction",
+        "sentence2": "US praises Ukraine deal; calls for concrete action",
+        "similarity": 0.0
+    },
+    {
+        "sentence1": "A man is playing a guitar.",
+        "sentence2": "A woman is cutting vegetable.",
+        "similarity": 0.0
+    },
+    {
+        "sentence1": "Sienna Miller testifies at UK phone hacking trial",
+        "sentence2": "Sienna Miller attacks press for \u201a\u00c4\u0117titillating\u201a\u00c4\u00f4 reports at hacking trial",
+        "similarity": 0.6
+    },
+    {
+        "sentence1": "A man stares out a window.",
+        "sentence2": "A man looks out the window.",
+        "similarity": 1.0
+    },
+    {
+        "sentence1": "North Korea test fires 30 missiles into the sea",
+        "sentence2": "N Korea 'fires 100 shells' into the sea",
+        "similarity": 0.6
+    },
+    {
+        "sentence1": "A woman slices a lemon.",
+        "sentence2": "A man is talking into a microphone.",
+        "similarity": 0.0
+    },
+    {
+        "sentence1": "A large black bird is sitting in the water.",
+        "sentence2": "The birds are swimming in the water.",
+        "similarity": 0.5
+    },
+    {
+        "sentence1": "Fire kills 38 in Russian psychiatric institution",
+        "sentence2": "38 feared dead in Russian psychiatric hospital fire",
+        "similarity": 0.7
+    },
+    {
+        "sentence1": "Mixed reactions to NZ same-sex marriage",
+        "sentence2": "New Zealand legalizes same-sex marriage",
+        "similarity": 0.4
+    },
+    {
+        "sentence1": "Dozens injured as Boeing 777 jet crash lands at San Francisco airport",
+        "sentence2": "Asiana Air Boeing 777 crash lands at San Francisco airport",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "Ten sheep looking at the camera.",
+        "sentence2": "A cat on its back looking at the camera.",
+        "similarity": 0.2
+    },
+    {
+        "sentence1": "Gusmao consolidates power in East Timor elections",
+        "sentence2": "Supreme Court possibilities if Romney wins election",
+        "similarity": 0.0
+    },
+    {
+        "sentence1": "syria denies having an undeclared nuclear program. ",
+        "sentence2": "syria denies the existence of an undeclared nuclear program.",
+        "similarity": 1.0
+    },
+    {
+        "sentence1": "Obama moves to fill Fed board, taps Fischer to be No. 2",
+        "sentence2": "Obama voices willingness to talk with GOP on budget",
+        "similarity": 0.1
+    },
+    {
+        "sentence1": "US pledge to rebuild Haiti not being met",
+        "sentence2": "US Pledge to Rebuild Haiti Not Being Met",
+        "similarity": 1.0
+    },
+    {
+        "sentence1": "Militants stage Pakistan jailbreak",
+        "sentence2": "Taliban prison break: 250 militants escape after attack on Pakistan jail",
+        "similarity": 0.6
+    },
+    {
+        "sentence1": "Man dies in Co Donegal house fire",
+        "sentence2": "Woman dies in Co Cork house fire",
+        "similarity": 0.4
+    },
+    {
+        "sentence1": "Key says marae visit a lost opportunity",
+        "sentence2": "Key wants Waitangi marae visit to stay",
+        "similarity": 0.4
+    },
+    {
+        "sentence1": "A cheetah is running.",
+        "sentence2": "A cheetah is running across a field.",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "A baby monkey scratches itself.",
+        "sentence2": "The monkey scratched his tummy.",
+        "similarity": 0.7
+    },
+    {
+        "sentence1": "Gunmen kill 10 foreign tourists in northern Pakistan",
+        "sentence2": "Gunmen kill 11 foreign climbers in Pakistan",
+        "similarity": 0.7
+    },
+    {
+        "sentence1": "China's yuan weakens to 6.2767 against USD Thursday",
+        "sentence2": "China yuan weakens to 6.1818 against USD Tuesday",
+        "similarity": 0.4
+    },
+    {
+        "sentence1": "A woman is slicing a onion.",
+        "sentence2": "A woman is cutting a potato.",
+        "similarity": 0.2
+    },
+    {
+        "sentence1": "A close up of the front end of a purple and white motor cycle.",
+        "sentence2": "Close up of the rear of a red sports car.",
+        "similarity": 0.2
+    },
+    {
+        "sentence1": "The benchmark 10-year note US10YT=RR lost 11/32 in price, taking its yield to 3.21 percent from 3.17 percent late on Monday.",
+        "sentence2": "Further out the curve, the benchmark 10-year note US10YT=RR shed 18/32 in price, taking its yield to 3.24 percent from 3.17 percent.",
+        "similarity": 0.4
+    },
+    {
+        "sentence1": "Fewer than 10 FBI offices have conducted investigations involving visits to mosques, the Justice Department said.",
+        "sentence2": "In addition, the Justice Department said that the FBI has conducted ''fewer than 10'' investigations involving visits to mosques.",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "A small bird eating from the feeder.",
+        "sentence2": "Bird eating from a bird feeder.",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "A person is riding a skateboard in the air above a ramp.",
+        "sentence2": "A biker is riding along a track element located with a wooded area.",
+        "similarity": 0.1
+    },
+    {
+        "sentence1": "Boy laying on couch with dog.",
+        "sentence2": "The boy is lying on a couch with a puppy.",
+        "similarity": 0.9
+    },
+    {
+        "sentence1": "Iran says ready for fresh round of nuclear talks",
+        "sentence2": "Iran's Khamenei renews support for nuclear talks",
+        "similarity": 0.7
+    },
+    {
+        "sentence1": "State police said as many as 30 workers were trapped immediately after the garage collapsed.",
+        "sentence2": "As many as 30 people were believed to be trapped inside initially, the state police said.",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "Two men wearing bike helmets.",
+        "sentence2": "Two men stand with their bicycles outside a shop.",
+        "similarity": 0.3
+    },
+    {
+        "sentence1": "A man is playing guitar.",
+        "sentence2": "A cat is playing.",
+        "similarity": 0.1
+    },
+    {
+        "sentence1": "Blitzbokke ousted by Fiji",
+        "sentence2": "Blitzbokke beaten by NZ",
+        "similarity": 0.4
+    },
+    {
+        "sentence1": "A spokeswoman at Strong Memorial Hospital said Doud was in satisfactory condition Tuesday night.",
+        "sentence2": "A spokesman at Strong Memorial Hospital said Doud was under evaluation Tuesday evening in the emergency room.",
+        "similarity": 0.6
+    },
+    {
+        "sentence1": "A man is kite surfing away from the camera.",
+        "sentence2": "A man is sky surfing on the water.",
+        "similarity": 0.6
+    },
+    {
+        "sentence1": "Headlines in major Iranian newspapers on Dec 30",
+        "sentence2": "Headlines in major Iranian newspapers on July 6",
+        "similarity": 0.4
+    },
+    {
+        "sentence1": "Iraqi Attacks Kill General, Four Police",
+        "sentence2": "Attacks in Iraq kill general and 4 others",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "The lawyer representing Torch Concepts, Rich Marsden did not respond to repeated phone calls.",
+        "sentence2": "Officials with Torch and JetBlue did not respond to repeated phone calls from the Mercury News seeking comment.",
+        "similarity": 0.6
+    },
+    {
+        "sentence1": "a brown and white dog is running on the grass.",
+        "sentence2": "The tan and black dog is running across the grass.",
+        "similarity": 0.7
+    },
+    {
+        "sentence1": "Microsoft has been awarded a patent for a feature in instant messaging that alerts a user when the person they are communicating with is inputting a message.",
+        "sentence2": "Microsoft has been awarded a patent on a popular instant-messaging feature that shows users when the person on the other end of the conversation is typing a message.",
+        "similarity": 0.9
+    },
+    {
+        "sentence1": "What does pressing the number one do?",
+        "sentence2": "Pressing the number one does English.",
+        "similarity": 0.3
+    },
+    {
+        "sentence1": "Pictures of the day: 7 August 2013",
+        "sentence2": "Pictures of the day: 11 April 2013",
+        "similarity": 0.6
+    },
+    {
+        "sentence1": "A red, double-decker bus.",
+        "sentence2": "Front and left side of a red double decker bus.",
+        "similarity": 0.6
+    },
+    {
+        "sentence1": "Rangers voted into Division Three",
+        "sentence2": "Rangers voted into third division",
+        "similarity": 1.0
+    },
+    {
+        "sentence1": "A federal magistrate in Fort Lauderdale ordered him held without bail.",
+        "sentence2": "Zuccarini was ordered held without bail Wednesday by a federal judge in Fort Lauderdale, Fla.",
+        "similarity": 0.6
+    },
+    {
+        "sentence1": "The men are performing on stage.",
+        "sentence2": "The comedic mimes performed on stage.",
+        "similarity": 0.5
+    },
+    {
+        "sentence1": "The dog is barking at the toy.",
+        "sentence2": "A dog is barking at a toy.",
+        "similarity": 1.0
+    },
+    {
+        "sentence1": "US offers US$10 mil. for Pakistan militant",
+        "sentence2": "US offers $10 million for Pakistani militant chief",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "A man is riding a mechanical bull.",
+        "sentence2": "A man rode a mechanical bull.",
+        "similarity": 0.8
+    },
+    {
+        "sentence1": "A man playing a video game in a store.",
+        "sentence2": "Man playing game in a store.",
+        "similarity": 0.7
+    },
+    {
+        "sentence1": "A dog is jumping on a trampoline.",
+        "sentence2": "A dog bounces on a trampoline.",
+        "similarity": 1.0
+    }
+]

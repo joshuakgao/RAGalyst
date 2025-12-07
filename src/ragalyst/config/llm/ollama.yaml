@@ -1,0 +1,4 @@
+type: "ollama"
+model_name: "gemma3n:e4b"
+system_message: "You are a helpful assistant that helps answer questions."
+temperature: 0.0

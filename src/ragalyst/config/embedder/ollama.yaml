@@ -1,0 +1,2 @@
+type: "ollama"
+model_name: "nomic-embed-text:v1.5"
