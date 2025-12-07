@@ -53,37 +53,6 @@ Examples:
     return result["selection"]
 
 
-def prompt_multiple_model_selection(model_type: str, choices: list[str]) -> list[str]:
-    """Prompt user to select multiple models or enter custom ones."""
-    q = [
-        inquirer.Checkbox(
-            "selections",
-            message=f"What {model_type}s would you like to evaluate?",
-            choices=choices + ["Add custom"],
-        ),
-    ]
-    result = inquirer.prompt(q)
-    assert result is not None
-
-    selected_models = [m for m in result["selections"] if m != "Add custom"]
-
-    if "Add custom" in result["selections"]:
-        q_custom = [
-            inquirer.Text(
-                "custom_models",
-                message=f"Enter custom {model_type}s (comma-separated, format: provider:model-name):",
-            ),
-        ]
-        custom_result = inquirer.prompt(q_custom)
-        assert custom_result is not None
-        custom_models = [
-            m.strip() for m in custom_result["custom_models"].split(",") if m.strip()
-        ]
-        selected_models.extend(custom_models)
-
-    return selected_models
-
-
 def generate_dataset_cfg() -> dict:
     """Set up configuration by prompting the user for inputs."""
     embedder_choices = [
@@ -122,9 +91,9 @@ def generate_embedder_experiment_cfg() -> dict:
         "huggingface:Qwen/Qwen3-Embedding-8B",
     ]
 
-    embedders = prompt_multiple_model_selection("embedder", embedder_choices)
+    embedder = prompt_model_selection("embedder", embedder_choices)
 
-    return {"embedders": embedders}
+    return {"embedder": embedder}
 
 
 def generate_llm_with_rag_experiment_cfg() -> dict:
@@ -142,11 +111,11 @@ def generate_llm_with_rag_experiment_cfg() -> dict:
         "huggingface:Qwen/Qwen3-Embedding-8B",
     ]
 
-    llms = prompt_multiple_model_selection("LLM", llm_choices)
+    llm = prompt_model_selection("LLM", llm_choices)
     embedder = prompt_model_selection("embedder", embedder_choices)
 
     return {
-        "llm": llms,
+        "llm": llm,
         "embedder": embedder,
     }
 
@@ -249,7 +218,7 @@ def main():
                 "data.text_processor.type=chunk",
                 "data.dataset_manager.type=qca",
                 f"data.dataset_manager.num_samples={num_samples}",
-                "data.dataset_manager.num_workers=1",
+                "data.dataset_manager.num_workers=2",
                 "data.dataset_manager.batch_size=10",
             ]
         )
@@ -278,50 +247,48 @@ def main():
 
         if experiment == "Embedder evaluation":
             input_cfg = generate_embedder_experiment_cfg()
-            embedders = input_cfg["embedders"]
-
-            for embedder in embedders:
-                embedder_type, embedder_name = parse_model_type_and_name(embedder)
-                cfg = load_config(
-                    overrides=[
-                        "experiment=embedder_retrieval_eval",
-                        f"domain={folder}",
-                        f"embedder.type={embedder_type}",
-                        f"embedder.model_name={embedder_name}",
-                        "rag=vector",
-                        "rag.top_k=10",
-                    ]
-                )
-
-                experiment = get_experiment(cfg)
-                experiment.run()
-        elif experiment == "RAG evaluation":
-            input_cfg = generate_llm_with_rag_experiment_cfg()
-            llms = input_cfg["llm"]
             embedder = input_cfg["embedder"]
             embedder_type, embedder_name = parse_model_type_and_name(embedder)
 
-            for llm in llms:
-                llm_type, llm_name = parse_model_type_and_name(llm)
-                cfg = load_config(
-                    overrides=[
-                        "experiment=llm_with_rag_eval",
-                        f"domain={folder}",
-                        f"llm={llm_type}",
-                        f"llm.model_name={llm_name}",
-                        f"embedder={embedder_type}",
-                        f"embedder.model_name={embedder_name}",
-                        "metrics=openai",
-                        "metrics.llm_type=openai",
-                        "metrics.llm_model_name=gpt-4o-mini",
-                        "metrics.embedder_type=huggingface",
-                        "metrics.embedder_model_name=Qwen/Qwen3-Embedding-0.6B",
-                        "rag=vector",
-                        "rag.top_k=10",
-                    ]
-                )
-                experiment = get_experiment(cfg)
-                experiment.run()
+            cfg = load_config(
+                overrides=[
+                    "experiment=embedder_retrieval_eval",
+                    f"domain={folder}",
+                    f"embedder.type={embedder_type}",
+                    f"embedder.model_name={embedder_name}",
+                    "rag=vector",
+                    "rag.top_k=10",
+                ]
+            )
+
+            experiment = get_experiment(cfg)
+            experiment.run()
+        elif experiment == "RAG evaluation":
+            input_cfg = generate_llm_with_rag_experiment_cfg()
+            llm = input_cfg["llm"]
+            llm_type, llm_name = parse_model_type_and_name(llm)
+            embedder = input_cfg["embedder"]
+            embedder_type, embedder_name = parse_model_type_and_name(embedder)
+
+            cfg = load_config(
+                overrides=[
+                    "experiment=llm_with_rag_eval",
+                    f"domain={folder}",
+                    f"llm={llm_type}",
+                    f"llm.model_name={llm_name}",
+                    f"embedder={embedder_type}",
+                    f"embedder.model_name={embedder_name}",
+                    "metrics=openai",
+                    "metrics.llm_type=openai",
+                    "metrics.llm_model_name=gpt-4o-mini",
+                    "metrics.embedder_type=huggingface",
+                    "metrics.embedder_model_name=Qwen/Qwen3-Embedding-0.6B",
+                    "rag=vector",
+                    "rag.top_k=10",
+                ]
+            )
+            experiment = get_experiment(cfg)
+            experiment.run()
         elif experiment == "K chunks retrieved evaluation":
             input_cfg = generate_k_chunks_retrieved_experiment_cfg()
             k: str = input_cfg["k"]

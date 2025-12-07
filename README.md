@@ -19,7 +19,7 @@ RAGalyst is a fully automated end-to-end RAG evaluation framework that employs n
 
    ```bash
    uv sync
-   souce .venv/bin/activate
+   source .venv/bin/activate
    ```
 
 3. Setup API Keys

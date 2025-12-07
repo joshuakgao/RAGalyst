@@ -52,7 +52,7 @@ FAISS_INDEX_REGISTRY = {
 
 EXPERIMENT_REGISTRY = {
     "embedder_retrieval_eval": "ragalyst.experiment.EmbedderRetrievalEvaluation",
-    "llm_with_rag_eval": "ragalyst.experiment.LlmWithragalystuation",
+    "llm_with_rag_eval": "ragalyst.experiment.LlmWithRagEvaluation",
     "classify_low_correctness_reason": "ragalyst.experiment.ClassifyLowCorrectnessReason",
 }
 
