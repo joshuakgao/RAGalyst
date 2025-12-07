@@ -30,10 +30,16 @@ class RagasFaithfulnessMetric(BaseMetric):
             retrieved_contexts=[context],
         )
         scorer = Faithfulness(llm=self.llm.get_ragas_wrapper())
-        loop = asyncio.get_event_loop()
 
         for attempt in range(max_retries + 1):
             try:
+                try:
+                    # Check if an event loop exists, if not create one
+                    loop = asyncio.get_event_loop()
+                except RuntimeError:
+                    # Create a new event loop for this thread
+                    loop = asyncio.new_event_loop()
+                    asyncio.set_event_loop(loop)
                 result = loop.run_until_complete(
                     asyncio.wait_for(
                         scorer.single_turn_ascore(sample), timeout=(attempt + 1) * 60
