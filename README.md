@@ -2,7 +2,7 @@
 
 A Retrieval-Augmented Generation (RAG) Evaluation Framework by the Structure and Artificial Intelligence Lab
 
-Please contact Dr. Vedhus Hoskere (vhoskere@central.uh.edu) and Josha Gao (jkgao@cougarnet.uh.edu) for any inquiries.
+Please contact Dr. Vedhus Hoskere (vhoskere@central.uh.edu) and Joshua Gao (jkgao@cougarnet.uh.edu) for any inquiries.
 
 ## Overview
 
