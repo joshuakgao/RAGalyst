@@ -2,6 +2,8 @@
 
 A Retrieval-Augmented Generation (RAG) Evaluation Framework by the Structure and Artificial Intelligence Lab
 
+Please contact Vedhus Hoskere (vhoskere@central.uh.edu) for correspondence.
+
 ## Overview
 
 RAGalyst is a fully automated end-to-end RAG evaluation framework that employs novel LLM-as-a-Judge metrcs: J-Answerability for improved QA synthesis, and J-Correctness for more accurate evaluation of RAG answer generation.
