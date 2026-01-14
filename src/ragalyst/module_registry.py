@@ -155,6 +155,11 @@ def get_metrics(cfg: DictConfig):
             self.standalone = lazy_import_class("ragalyst.metrics.StandaloneMetric")(
                 cfg
             )
+            self.bleu = lazy_import_class("ragalyst.metrics.BleuMetric")(cfg)
+            self.rougeL = lazy_import_class("ragalyst.metrics.RougeLMetric")(cfg)
+            self.cosine_similarity = lazy_import_class(
+                "ragalyst.metrics.CosineSimilarity"
+            )(cfg)
 
     global metrics_instance
     metrics_instance = Metrics(cfg)
